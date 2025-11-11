@@ -1,0 +1,110 @@
+================================================================================
+LOAN ELIGIBILITY STATISTICAL ANALYSIS
+Generated: 2025-11-10 23:56:26
+================================================================================
+
+================================================================================
+OVERALL STATISTICS
+================================================================================
+ Total_Applications  Avg_Total_Income  Avg_Loan_Amount  Avg_LTI_Ratio  Pct_Good_Credit
+                367           6375.18           136.02          24.42            83.92
+
+================================================================================
+GENDER DISTRIBUTION
+================================================================================
+ Gender  Application_Count  Avg_Total_Income  Avg_Loan_Amount  Avg_LTI_Ratio  Pct_Good_Credit
+   Male                286           6603.73           138.88          23.91            84.62
+ Female                 70           5335.56           126.81          26.73            81.43
+Unknown                 11           7048.45           120.36          22.84            81.82
+
+================================================================================
+EDUCATION ANALYSIS
+================================================================================
+   Education  Application_Count  Avg_Total_Income  Avg_Loan_Amount  Avg_LTI_Ratio  Pct_Good_Credit
+    Graduate                283           6812.31           141.17          23.64            84.81
+Not Graduate                 84           4902.44           118.68          27.04            80.95
+
+================================================================================
+PROPERTY AREA DISTRIBUTION
+================================================================================
+Property_Area  Application_Count  Avg_Total_Income  Avg_Loan_Amount  Avg_LTI_Ratio  Pct_Good_Credit
+        Urban                140           6407.81           136.11          23.79            87.14
+    Semiurban                116           6217.10           133.94          25.73            81.90
+        Rural                111           6499.21           138.09          23.84            81.98
+
+================================================================================
+INCOME CATEGORIES
+================================================================================
+Income_Category  Application_Count  Min_Income  Avg_Income  Max_Income  Avg_Loan_Amount  Avg_LTI_Ratio
+     Low Income                 78        1760     3230.88        3958            96.95          30.58
+  Medium Income                228        4000     5527.20        7950           130.84          24.09
+    High Income                 61        8160    13565.25       72529           205.34          17.74
+
+================================================================================
+CREDIT HISTORY IMPACT
+================================================================================
+Credit_Category  Application_Count  Avg_Total_Income  Avg_Loan_Amount  Avg_LTI_Ratio
+    Good Credit                308           6519.78           135.68          23.69
+ Poor/No Credit                 59           5620.29           137.83          28.23
+
+================================================================================
+MARITAL STATUS ANALYSIS
+================================================================================
+Married  Application_Count  Avg_Total_Income  Avg_Loan_Amount  Pct_With_Coapplicant
+     No                134           5943.62           121.60                 39.55
+    Yes                233           6623.37           144.32                 67.81
+
+================================================================================
+EMPLOYMENT STATUS
+================================================================================
+Self_Employed  Application_Count  Avg_Total_Income  Avg_Loan_Amount  Pct_Good_Credit
+           No                330           6276.42           134.43            82.73
+          Yes                 37           7256.03           150.19            94.59
+
+================================================================================
+DEPENDENTS ANALYSIS
+================================================================================
+Dependents  Application_Count  Avg_Total_Income  Avg_Loan_Amount  Avg_Payment_to_Income_Pct
+         0                210           5967.21           129.80                       9.09
+         1                 58           6572.93           133.05                       7.41
+         2                 59           6636.15           154.07                      10.63
+         3                 40           7845.30           146.35                       7.43
+
+================================================================================
+RISK DISTRIBUTION
+================================================================================
+   Risk_Category  Count  Percentage
+Medium-High Risk    303       82.56
+       High Risk     61       16.62
+ Medium-Low Risk      2        0.54
+        Low Risk      1        0.27
+
+================================================================================
+TOP 10 HIGHEST INCOME APPLICANTS
+================================================================================
+ Loan_ID  Gender    Education  TotalIncome  LoanAmount  Loan_to_Income_Ratio Credit_Category
+LP001428    Male     Graduate        72529       360.0                  4.96     Good Credit
+LP001791    Male     Graduate        32000       550.0                 17.19     Good Credit
+LP002294    Male     Graduate        29418       130.0                  4.42     Good Credit
+LP002553 Unknown     Graduate        29167       185.0                  6.34     Good Credit
+LP002485    Male     Graduate        24797       240.0                  9.68     Good Credit
+LP001153    Male     Graduate        24000       148.0                  6.17  Poor/No Credit
+LP002570  Female     Graduate        21666       460.0                 21.23     Good Credit
+LP002791    Male     Graduate        21000        40.0                  1.90     Good Credit
+LP002325    Male Not Graduate        20149       102.0                  5.06     Good Credit
+LP002433    Male     Graduate        18840       234.0                 12.42     Good Credit
+
+================================================================================
+TOP 10 LARGEST LOAN REQUESTS
+================================================================================
+ Loan_ID Gender Education  TotalIncome  LoanAmount  Loan_to_Income_Ratio Credit_Category
+LP001791   Male  Graduate        32000       550.0                 17.19     Good Credit
+LP002570 Female  Graduate        21666       460.0                 21.23     Good Credit
+LP002077   Male  Graduate        12690       412.0                 32.47     Good Credit
+LP001483   Male  Graduate        13518       390.0                 28.85     Good Credit
+LP001428   Male  Graduate        72529       360.0                  4.96     Good Credit
+LP002059   Male  Graduate        11841       336.0                 28.38     Good Credit
+LP001108   Male  Graduate        17142       300.0                 17.50     Good Credit
+LP001655 Female  Graduate        12500       300.0                 24.00  Poor/No Credit
+LP002825   Male  Graduate         9699       300.0                 30.93     Good Credit
+LP002572   Male  Graduate         8750       297.0                 33.94     Good Credit

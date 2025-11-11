@@ -1,0 +1,5 @@
+Risk_Category,Count,Percentage,Avg_Income,Avg_Loan,Avg_LTI
+High Risk,61,16.62,5699.87,139.51,28.07
+Low Risk,1,0.27,21000.0,40.0,1.9
+Medium-High Risk,303,82.56,6168.49,134.92,23.88
+Medium-Low Risk,2,0.54,50973.5,245.0,4.69

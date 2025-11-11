@@ -1,0 +1,368 @@
+Loan_ID,Gender,Married,Dependents,Dependents_Num,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,TotalIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Income_Category,Loan_Category,Loan_to_Income_Ratio,Estimated_Monthly_Payment,Payment_to_Income_Pct,Has_Coapplicant_Income,Credit_Category
+LP001015,Male,Yes,0,0,Graduate,No,5720,0,5720,110.0,360.0,1.0,Urban,Medium Income,Medium Loan,19.23,305.56,5.34,No,Good Credit
+LP001022,Male,Yes,1,1,Graduate,No,3076,1500,4576,126.0,360.0,1.0,Urban,Medium Income,Medium Loan,27.53,350.0,7.65,Yes,Good Credit
+LP001031,Male,Yes,2,2,Graduate,No,5000,1800,6800,208.0,360.0,1.0,Urban,Medium Income,Large Loan,30.59,577.78,8.5,Yes,Good Credit
+LP001035,Male,Yes,2,2,Graduate,No,2340,2546,4886,100.0,360.0,1.0,Urban,Medium Income,Medium Loan,20.47,277.78,5.69,Yes,Good Credit
+LP001051,Male,No,0,0,Not Graduate,No,3276,0,3276,78.0,360.0,1.0,Urban,Low Income,Small Loan,23.81,216.67,6.61,No,Good Credit
+LP001054,Male,Yes,0,0,Not Graduate,Yes,2165,3422,5587,152.0,360.0,1.0,Urban,Medium Income,Medium Loan,27.21,422.22,7.56,Yes,Good Credit
+LP001055,Female,No,1,1,Not Graduate,No,2226,0,2226,59.0,360.0,1.0,Semiurban,Low Income,Small Loan,26.5,163.89,7.36,No,Good Credit
+LP001056,Male,Yes,2,2,Not Graduate,No,3881,0,3881,147.0,360.0,0.0,Rural,Low Income,Medium Loan,37.88,408.33,10.52,No,Poor/No Credit
+LP001059,Male,Yes,2,2,Graduate,No,13633,0,13633,280.0,240.0,1.0,Urban,High Income,Large Loan,20.54,1166.67,8.56,No,Good Credit
+LP001067,Male,No,0,0,Not Graduate,No,2400,2400,4800,123.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,25.63,341.67,7.12,Yes,Good Credit
+LP001078,Male,No,0,0,Not Graduate,No,3091,0,3091,90.0,360.0,1.0,Urban,Low Income,Small Loan,29.12,250.0,8.09,No,Good Credit
+LP001082,Male,Yes,1,1,Graduate,No,2185,1516,3701,162.0,360.0,1.0,Semiurban,Low Income,Medium Loan,43.77,450.0,12.16,Yes,Good Credit
+LP001083,Male,No,3,3,Graduate,No,4166,0,4166,40.0,180.0,1.0,Urban,Medium Income,Small Loan,9.6,222.22,5.33,No,Good Credit
+LP001094,Male,Yes,2,2,Graduate,No,12173,0,12173,166.0,360.0,0.0,Semiurban,High Income,Medium Loan,13.64,461.11,3.79,No,Poor/No Credit
+LP001096,Female,No,0,0,Graduate,No,4666,0,4666,124.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,26.58,344.44,7.38,No,Good Credit
+LP001099,Male,No,1,1,Graduate,No,5667,0,5667,131.0,360.0,1.0,Urban,Medium Income,Medium Loan,23.12,363.89,6.42,No,Good Credit
+LP001105,Male,Yes,2,2,Graduate,No,4583,2916,7499,200.0,360.0,1.0,Urban,Medium Income,Large Loan,26.67,555.56,7.41,Yes,Good Credit
+LP001107,Male,Yes,3,3,Graduate,No,3786,333,4119,126.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,30.59,350.0,8.5,Yes,Good Credit
+LP001108,Male,Yes,0,0,Graduate,No,9226,7916,17142,300.0,360.0,1.0,Urban,High Income,Large Loan,17.5,833.33,4.86,Yes,Good Credit
+LP001115,Male,No,0,0,Graduate,No,1300,3470,4770,100.0,180.0,1.0,Semiurban,Medium Income,Medium Loan,20.96,555.56,11.65,Yes,Good Credit
+LP001121,Male,Yes,1,1,Not Graduate,No,1888,1620,3508,48.0,360.0,1.0,Urban,Low Income,Small Loan,13.68,133.33,3.8,Yes,Good Credit
+LP001124,Female,No,3,3,Not Graduate,No,2083,0,2083,28.0,180.0,1.0,Urban,Low Income,Small Loan,13.44,155.56,7.47,No,Good Credit
+LP001128,Unknown,No,0,0,Graduate,No,3909,0,3909,101.0,360.0,1.0,Urban,Low Income,Medium Loan,25.84,280.56,7.18,No,Good Credit
+LP001135,Female,No,0,0,Not Graduate,No,3765,0,3765,125.0,360.0,1.0,Urban,Low Income,Medium Loan,33.2,347.22,9.22,No,Good Credit
+LP001149,Male,Yes,0,0,Graduate,No,5400,4380,9780,290.0,360.0,1.0,Urban,High Income,Large Loan,29.65,805.56,8.24,Yes,Good Credit
+LP001153,Male,No,0,0,Graduate,No,0,24000,24000,148.0,360.0,0.0,Rural,High Income,Medium Loan,6.17,411.11,1.71,Yes,Poor/No Credit
+LP001163,Male,Yes,2,2,Graduate,No,4363,1250,5613,140.0,360.0,1.0,Urban,Medium Income,Medium Loan,24.94,388.89,6.93,Yes,Good Credit
+LP001169,Male,Yes,0,0,Graduate,No,7500,3750,11250,275.0,360.0,1.0,Urban,High Income,Large Loan,24.44,763.89,6.79,Yes,Good Credit
+LP001174,Male,Yes,0,0,Graduate,No,3772,833,4605,57.0,360.0,1.0,Semiurban,Medium Income,Small Loan,12.38,158.33,3.44,Yes,Good Credit
+LP001176,Male,No,0,0,Graduate,No,2942,2382,5324,125.0,180.0,1.0,Urban,Medium Income,Medium Loan,23.48,694.44,13.04,Yes,Good Credit
+LP001177,Female,No,0,0,Not Graduate,No,2478,0,2478,75.0,360.0,1.0,Semiurban,Low Income,Small Loan,30.27,208.33,8.41,No,Good Credit
+LP001183,Male,Yes,2,2,Graduate,No,6250,820,7070,192.0,360.0,1.0,Urban,Medium Income,Medium Loan,27.16,533.33,7.54,Yes,Good Credit
+LP001185,Male,No,0,0,Graduate,No,3268,1683,4951,152.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,30.7,422.22,8.53,Yes,Good Credit
+LP001187,Male,Yes,0,0,Graduate,No,2783,2708,5491,158.0,360.0,1.0,Urban,Medium Income,Medium Loan,28.77,438.89,7.99,Yes,Good Credit
+LP001190,Male,Yes,0,0,Graduate,No,2740,1541,4281,101.0,360.0,1.0,Urban,Medium Income,Medium Loan,23.59,280.56,6.55,Yes,Good Credit
+LP001203,Male,No,0,0,Graduate,No,3150,0,3150,176.0,360.0,0.0,Semiurban,Low Income,Medium Loan,55.87,488.89,15.52,No,Poor/No Credit
+LP001208,Male,Yes,2,2,Graduate,No,7350,4029,11379,185.0,180.0,1.0,Urban,High Income,Medium Loan,16.26,1027.78,9.03,Yes,Good Credit
+LP001210,Male,Yes,0,0,Graduate,Yes,2267,2792,5059,90.0,360.0,1.0,Urban,Medium Income,Small Loan,17.79,250.0,4.94,Yes,Good Credit
+LP001211,Male,No,0,0,Graduate,Yes,5833,0,5833,116.0,360.0,1.0,Urban,Medium Income,Medium Loan,19.89,322.22,5.52,No,Good Credit
+LP001219,Male,No,0,0,Graduate,No,3643,1963,5606,138.0,360.0,1.0,Urban,Medium Income,Medium Loan,24.62,383.33,6.84,Yes,Good Credit
+LP001220,Male,Yes,0,0,Graduate,No,5629,818,6447,100.0,360.0,1.0,Urban,Medium Income,Medium Loan,15.51,277.78,4.31,Yes,Good Credit
+LP001221,Female,No,0,0,Graduate,No,3644,0,3644,110.0,360.0,1.0,Urban,Low Income,Medium Loan,30.19,305.56,8.39,No,Good Credit
+LP001226,Male,Yes,0,0,Not Graduate,No,1750,2024,3774,90.0,360.0,1.0,Semiurban,Low Income,Small Loan,23.85,250.0,6.62,Yes,Good Credit
+LP001230,Male,No,0,0,Graduate,No,6500,2600,9100,200.0,360.0,1.0,Semiurban,High Income,Large Loan,21.98,555.56,6.11,Yes,Good Credit
+LP001231,Female,No,0,0,Graduate,No,3666,0,3666,84.0,360.0,1.0,Urban,Low Income,Small Loan,22.91,233.33,6.36,No,Good Credit
+LP001232,Male,Yes,0,0,Graduate,No,4260,3900,8160,185.0,360.0,1.0,Urban,High Income,Medium Loan,22.67,513.89,6.3,Yes,Good Credit
+LP001237,Male,Yes,0,0,Not Graduate,No,4163,1475,5638,162.0,360.0,1.0,Urban,Medium Income,Medium Loan,28.73,450.0,7.98,Yes,Good Credit
+LP001242,Male,No,0,0,Not Graduate,No,2356,1902,4258,108.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,25.36,300.0,7.05,Yes,Good Credit
+LP001268,Male,No,0,0,Graduate,No,6792,3338,10130,187.0,360.0,1.0,Urban,High Income,Medium Loan,18.46,519.44,5.13,Yes,Good Credit
+LP001270,Male,Yes,3,3,Not Graduate,Yes,8000,250,8250,187.0,360.0,1.0,Semiurban,High Income,Medium Loan,22.67,519.44,6.3,Yes,Good Credit
+LP001284,Male,Yes,1,1,Graduate,No,2419,1707,4126,124.0,360.0,1.0,Urban,Medium Income,Medium Loan,30.05,344.44,8.35,Yes,Good Credit
+LP001287,Unknown,Yes,3,3,Not Graduate,No,3500,833,4333,120.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,27.69,333.33,7.69,Yes,Good Credit
+LP001291,Male,Yes,1,1,Graduate,No,3500,3077,6577,160.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,24.33,444.44,6.76,Yes,Good Credit
+LP001298,Male,Yes,2,2,Graduate,No,4116,1000,5116,30.0,180.0,1.0,Urban,Medium Income,Small Loan,5.86,166.67,3.26,Yes,Good Credit
+LP001312,Male,Yes,0,0,Not Graduate,Yes,5293,0,5293,92.0,360.0,1.0,Urban,Medium Income,Small Loan,17.38,255.56,4.83,No,Good Credit
+LP001313,Male,No,0,0,Graduate,No,2750,0,2750,130.0,360.0,0.0,Urban,Low Income,Medium Loan,47.27,361.11,13.13,No,Poor/No Credit
+LP001317,Female,No,0,0,Not Graduate,No,4402,0,4402,130.0,360.0,1.0,Rural,Medium Income,Medium Loan,29.53,361.11,8.2,No,Good Credit
+LP001321,Male,Yes,2,2,Graduate,No,3613,3539,7152,134.0,180.0,1.0,Semiurban,Medium Income,Medium Loan,18.74,744.44,10.41,Yes,Good Credit
+LP001323,Female,Yes,2,2,Graduate,No,2779,3664,6443,176.0,360.0,0.0,Semiurban,Medium Income,Medium Loan,27.32,488.89,7.59,Yes,Poor/No Credit
+LP001324,Male,Yes,3,3,Graduate,No,4720,0,4720,90.0,180.0,1.0,Semiurban,Medium Income,Small Loan,19.07,500.0,10.59,No,Good Credit
+LP001332,Male,Yes,0,0,Not Graduate,No,2415,1721,4136,110.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,26.6,305.56,7.39,Yes,Good Credit
+LP001335,Male,Yes,0,0,Graduate,Yes,7016,292,7308,125.0,360.0,1.0,Urban,Medium Income,Medium Loan,17.1,347.22,4.75,Yes,Good Credit
+LP001338,Female,No,2,2,Graduate,No,4968,0,4968,189.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,38.04,525.0,10.57,No,Good Credit
+LP001347,Female,No,0,0,Graduate,No,2101,1500,3601,108.0,360.0,0.0,Rural,Low Income,Medium Loan,29.99,300.0,8.33,Yes,Poor/No Credit
+LP001348,Male,Yes,3,3,Not Graduate,No,4490,0,4490,125.0,360.0,1.0,Urban,Medium Income,Medium Loan,27.84,347.22,7.73,No,Good Credit
+LP001351,Male,Yes,0,0,Graduate,No,2917,3583,6500,138.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,21.23,383.33,5.9,Yes,Good Credit
+LP001352,Male,Yes,0,0,Not Graduate,No,4700,0,4700,135.0,360.0,0.0,Semiurban,Medium Income,Medium Loan,28.72,375.0,7.98,No,Poor/No Credit
+LP001358,Male,Yes,0,0,Graduate,No,3445,0,3445,130.0,360.0,0.0,Semiurban,Low Income,Medium Loan,37.74,361.11,10.48,No,Poor/No Credit
+LP001359,Male,Yes,0,0,Graduate,No,7666,0,7666,187.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,24.39,519.44,6.78,No,Good Credit
+LP001361,Male,Yes,0,0,Graduate,No,2458,5105,7563,188.0,360.0,0.0,Rural,Medium Income,Medium Loan,24.86,522.22,6.9,Yes,Poor/No Credit
+LP001366,Female,No,0,0,Graduate,No,3250,0,3250,95.0,360.0,1.0,Semiurban,Low Income,Small Loan,29.23,263.89,8.12,No,Good Credit
+LP001368,Male,No,0,0,Graduate,No,4463,0,4463,65.0,360.0,1.0,Semiurban,Medium Income,Small Loan,14.56,180.56,4.05,No,Good Credit
+LP001375,Male,Yes,1,1,Graduate,No,4083,1775,5858,139.0,60.0,1.0,Urban,Medium Income,Medium Loan,23.73,2316.67,39.55,Yes,Good Credit
+LP001380,Male,Yes,0,0,Graduate,Yes,3900,2094,5994,232.0,360.0,1.0,Rural,Medium Income,Large Loan,38.71,644.44,10.75,Yes,Good Credit
+LP001386,Male,Yes,0,0,Not Graduate,No,4750,3583,8333,144.0,360.0,1.0,Semiurban,High Income,Medium Loan,17.28,400.0,4.8,Yes,Good Credit
+LP001400,Male,No,0,0,Graduate,No,3583,3435,7018,155.0,360.0,1.0,Urban,Medium Income,Medium Loan,22.09,430.56,6.14,Yes,Good Credit
+LP001407,Male,Yes,0,0,Graduate,No,3189,2367,5556,186.0,360.0,1.0,Urban,Medium Income,Medium Loan,33.48,516.67,9.3,Yes,Good Credit
+LP001413,Male,No,0,0,Graduate,Yes,6356,0,6356,50.0,360.0,1.0,Rural,Medium Income,Small Loan,7.87,138.89,2.19,No,Good Credit
+LP001415,Male,Yes,1,1,Graduate,No,3413,4053,7466,128.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,17.14,355.56,4.76,Yes,Good Credit
+LP001419,Female,Yes,0,0,Graduate,No,7950,0,7950,185.0,360.0,1.0,Urban,Medium Income,Medium Loan,23.27,513.89,6.46,No,Good Credit
+LP001420,Male,Yes,3,3,Graduate,No,3829,1103,4932,163.0,360.0,0.0,Urban,Medium Income,Medium Loan,33.05,452.78,9.18,Yes,Poor/No Credit
+LP001428,Male,Yes,3,3,Graduate,No,72529,0,72529,360.0,360.0,1.0,Urban,High Income,Large Loan,4.96,1000.0,1.38,No,Good Credit
+LP001445,Male,Yes,2,2,Not Graduate,No,4136,0,4136,149.0,480.0,0.0,Rural,Medium Income,Medium Loan,36.03,310.42,7.51,No,Poor/No Credit
+LP001446,Male,Yes,0,0,Graduate,No,8449,0,8449,257.0,360.0,1.0,Rural,High Income,Large Loan,30.42,713.89,8.45,No,Good Credit
+LP001450,Male,Yes,0,0,Graduate,No,4456,0,4456,131.0,180.0,0.0,Semiurban,Medium Income,Medium Loan,29.4,727.78,16.33,No,Poor/No Credit
+LP001452,Male,Yes,2,2,Graduate,No,4635,8000,12635,102.0,180.0,1.0,Rural,High Income,Medium Loan,8.07,566.67,4.48,Yes,Good Credit
+LP001455,Male,Yes,0,0,Graduate,No,3571,1917,5488,135.0,360.0,1.0,Urban,Medium Income,Medium Loan,24.6,375.0,6.83,Yes,Good Credit
+LP001466,Male,No,0,0,Graduate,No,3066,0,3066,95.0,360.0,1.0,Semiurban,Low Income,Small Loan,30.98,263.89,8.61,No,Good Credit
+LP001471,Male,No,2,2,Not Graduate,No,3235,2015,5250,77.0,360.0,1.0,Semiurban,Medium Income,Small Loan,14.67,213.89,4.07,Yes,Good Credit
+LP001472,Female,No,0,0,Graduate,No,5058,0,5058,200.0,360.0,1.0,Rural,Medium Income,Large Loan,39.54,555.56,10.98,No,Good Credit
+LP001475,Male,Yes,0,0,Graduate,Yes,3188,2286,5474,130.0,360.0,1.0,Rural,Medium Income,Medium Loan,23.75,361.11,6.6,Yes,Good Credit
+LP001483,Male,Yes,3,3,Graduate,No,13518,0,13518,390.0,360.0,1.0,Rural,High Income,Large Loan,28.85,1083.33,8.01,No,Good Credit
+LP001486,Male,Yes,1,1,Graduate,No,4364,2500,6864,185.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,26.95,513.89,7.49,Yes,Good Credit
+LP001490,Male,Yes,2,2,Not Graduate,No,4766,1646,6412,100.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,15.6,277.78,4.33,Yes,Good Credit
+LP001496,Male,Yes,1,1,Graduate,No,4609,2333,6942,123.0,360.0,0.0,Semiurban,Medium Income,Medium Loan,17.72,341.67,4.92,Yes,Poor/No Credit
+LP001499,Female,Yes,3,3,Graduate,No,6260,0,6260,110.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,17.57,305.56,4.88,No,Good Credit
+LP001500,Male,Yes,1,1,Graduate,No,3333,4200,7533,256.0,360.0,1.0,Urban,Medium Income,Large Loan,33.98,711.11,9.44,Yes,Good Credit
+LP001501,Male,Yes,0,0,Graduate,No,3500,3250,6750,140.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,20.74,388.89,5.76,Yes,Good Credit
+LP001517,Male,Yes,3,3,Graduate,No,9719,0,9719,61.0,360.0,1.0,Urban,High Income,Small Loan,6.28,169.44,1.74,No,Good Credit
+LP001527,Male,Yes,3,3,Graduate,No,6835,0,6835,188.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,27.51,522.22,7.64,No,Good Credit
+LP001534,Male,No,0,0,Graduate,No,4452,0,4452,131.0,360.0,1.0,Rural,Medium Income,Medium Loan,29.42,363.89,8.17,No,Good Credit
+LP001542,Female,Yes,0,0,Graduate,No,2262,0,2262,128.0,480.0,0.0,Semiurban,Low Income,Medium Loan,56.59,266.67,11.79,No,Poor/No Credit
+LP001547,Male,Yes,1,1,Graduate,No,3901,0,3901,116.0,360.0,1.0,Urban,Low Income,Medium Loan,29.74,322.22,8.26,No,Good Credit
+LP001548,Male,Yes,2,2,Not Graduate,No,2687,0,2687,50.0,180.0,1.0,Rural,Low Income,Small Loan,18.61,277.78,10.34,No,Good Credit
+LP001558,Male,No,0,0,Graduate,No,2243,2233,4476,107.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,23.91,297.22,6.64,Yes,Good Credit
+LP001561,Female,Yes,0,0,Graduate,No,3417,1287,4704,200.0,360.0,1.0,Semiurban,Medium Income,Large Loan,42.52,555.56,11.81,Yes,Good Credit
+LP001563,Unknown,No,0,0,Graduate,No,1596,1760,3356,119.0,360.0,0.0,Urban,Low Income,Medium Loan,35.46,330.56,9.85,Yes,Poor/No Credit
+LP001567,Male,Yes,3,3,Graduate,No,4513,0,4513,120.0,360.0,1.0,Rural,Medium Income,Medium Loan,26.59,333.33,7.39,No,Good Credit
+LP001568,Male,Yes,0,0,Graduate,No,4500,0,4500,140.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,31.11,388.89,8.64,No,Good Credit
+LP001573,Male,Yes,0,0,Not Graduate,No,4523,1350,5873,165.0,360.0,1.0,Urban,Medium Income,Medium Loan,28.09,458.33,7.8,Yes,Good Credit
+LP001584,Female,No,0,0,Graduate,Yes,4742,0,4742,108.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,22.78,300.0,6.33,No,Good Credit
+LP001587,Male,Yes,0,0,Graduate,No,4082,0,4082,93.0,360.0,1.0,Semiurban,Medium Income,Small Loan,22.78,258.33,6.33,No,Good Credit
+LP001589,Female,No,0,0,Graduate,No,3417,0,3417,102.0,360.0,1.0,Urban,Low Income,Medium Loan,29.85,283.33,8.29,No,Good Credit
+LP001591,Female,Yes,2,2,Graduate,No,2922,3396,6318,122.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,19.31,338.89,5.36,Yes,Good Credit
+LP001599,Male,Yes,0,0,Graduate,No,4167,4754,8921,160.0,360.0,1.0,Rural,High Income,Medium Loan,17.94,444.44,4.98,Yes,Good Credit
+LP001601,Male,No,3,3,Graduate,No,4243,4123,8366,157.0,360.0,1.0,Semiurban,High Income,Medium Loan,18.77,436.11,5.21,Yes,Good Credit
+LP001607,Female,No,0,0,Not Graduate,No,0,1760,1760,180.0,360.0,1.0,Semiurban,Low Income,Medium Loan,102.27,500.0,28.41,Yes,Good Credit
+LP001611,Male,Yes,1,1,Graduate,No,1516,2900,4416,80.0,360.0,0.0,Rural,Medium Income,Small Loan,18.12,222.22,5.03,Yes,Poor/No Credit
+LP001613,Female,No,0,0,Graduate,No,1762,2666,4428,104.0,360.0,0.0,Urban,Medium Income,Medium Loan,23.49,288.89,6.52,Yes,Poor/No Credit
+LP001622,Male,Yes,2,2,Graduate,No,724,3510,4234,213.0,360.0,0.0,Rural,Medium Income,Large Loan,50.31,591.67,13.97,Yes,Poor/No Credit
+LP001627,Male,No,0,0,Graduate,No,3125,0,3125,65.0,360.0,1.0,Urban,Low Income,Small Loan,20.8,180.56,5.78,No,Good Credit
+LP001650,Male,Yes,0,0,Graduate,No,2333,3803,6136,146.0,360.0,1.0,Rural,Medium Income,Medium Loan,23.79,405.56,6.61,Yes,Good Credit
+LP001651,Male,Yes,3,3,Graduate,No,3350,1560,4910,135.0,360.0,1.0,Urban,Medium Income,Medium Loan,27.49,375.0,7.64,Yes,Good Credit
+LP001652,Male,No,0,0,Graduate,No,2500,6414,8914,187.0,360.0,0.0,Rural,High Income,Medium Loan,20.98,519.44,5.83,Yes,Poor/No Credit
+LP001655,Female,No,0,0,Graduate,No,12500,0,12500,300.0,360.0,0.0,Urban,High Income,Large Loan,24.0,833.33,6.67,No,Poor/No Credit
+LP001660,Male,No,0,0,Graduate,No,4667,0,4667,120.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,25.71,333.33,7.14,No,Good Credit
+LP001662,Male,No,0,0,Graduate,No,6500,0,6500,71.0,360.0,0.0,Urban,Medium Income,Small Loan,10.92,197.22,3.03,No,Poor/No Credit
+LP001663,Male,Yes,2,2,Graduate,No,7500,0,7500,225.0,360.0,1.0,Urban,Medium Income,Large Loan,30.0,625.0,8.33,No,Good Credit
+LP001667,Male,No,0,0,Graduate,No,3073,0,3073,70.0,180.0,1.0,Urban,Low Income,Small Loan,22.78,388.89,12.66,No,Good Credit
+LP001695,Male,Yes,1,1,Not Graduate,No,3321,2088,5409,70.0,360.0,1.0,Semiurban,Medium Income,Small Loan,12.94,194.44,3.59,Yes,Good Credit
+LP001703,Male,Yes,0,0,Graduate,No,3333,1270,4603,124.0,360.0,1.0,Urban,Medium Income,Medium Loan,26.94,344.44,7.48,Yes,Good Credit
+LP001718,Male,No,0,0,Graduate,No,3391,0,3391,132.0,360.0,1.0,Rural,Low Income,Medium Loan,38.93,366.67,10.81,No,Good Credit
+LP001728,Male,Yes,1,1,Graduate,Yes,3343,1517,4860,105.0,360.0,1.0,Rural,Medium Income,Medium Loan,21.6,291.67,6.0,Yes,Good Credit
+LP001735,Female,No,1,1,Graduate,No,3620,0,3620,90.0,360.0,1.0,Urban,Low Income,Small Loan,24.86,250.0,6.91,No,Good Credit
+LP001737,Male,No,0,0,Graduate,No,4000,0,4000,83.0,84.0,1.0,Urban,Medium Income,Small Loan,20.75,988.1,24.7,No,Good Credit
+LP001739,Male,Yes,0,0,Graduate,No,4258,0,4258,125.0,360.0,1.0,Urban,Medium Income,Medium Loan,29.36,347.22,8.15,No,Good Credit
+LP001742,Male,Yes,2,2,Graduate,No,4500,0,4500,147.0,360.0,1.0,Rural,Medium Income,Medium Loan,32.67,408.33,9.07,No,Good Credit
+LP001757,Male,Yes,1,1,Graduate,No,2014,2925,4939,120.0,360.0,1.0,Rural,Medium Income,Medium Loan,24.3,333.33,6.75,Yes,Good Credit
+LP001769,Unknown,No,0,0,Graduate,No,3333,1250,4583,110.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,24.0,305.56,6.67,Yes,Good Credit
+LP001771,Female,No,3,3,Graduate,No,4083,0,4083,103.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,25.23,286.11,7.01,No,Good Credit
+LP001785,Male,No,0,0,Graduate,No,4727,0,4727,150.0,360.0,0.0,Rural,Medium Income,Medium Loan,31.73,416.67,8.81,No,Poor/No Credit
+LP001787,Male,Yes,3,3,Graduate,No,3089,2999,6088,100.0,240.0,1.0,Rural,Medium Income,Medium Loan,16.43,416.67,6.84,Yes,Good Credit
+LP001789,Male,Yes,3,3,Not Graduate,No,6794,528,7322,139.0,360.0,0.0,Urban,Medium Income,Medium Loan,18.98,386.11,5.27,Yes,Poor/No Credit
+LP001791,Male,Yes,0,0,Graduate,Yes,32000,0,32000,550.0,360.0,1.0,Semiurban,High Income,Large Loan,17.19,1527.78,4.77,No,Good Credit
+LP001794,Male,Yes,2,2,Graduate,Yes,10890,0,10890,260.0,12.0,1.0,Rural,High Income,Large Loan,23.88,21666.67,198.96,No,Good Credit
+LP001797,Female,No,0,0,Graduate,No,12941,0,12941,150.0,300.0,1.0,Urban,High Income,Medium Loan,11.59,500.0,3.86,No,Good Credit
+LP001815,Male,No,0,0,Not Graduate,No,3276,0,3276,90.0,360.0,1.0,Semiurban,Low Income,Small Loan,27.47,250.0,7.63,No,Good Credit
+LP001817,Male,No,0,0,Not Graduate,Yes,8703,0,8703,199.0,360.0,0.0,Rural,High Income,Medium Loan,22.87,552.78,6.35,No,Poor/No Credit
+LP001818,Male,Yes,1,1,Graduate,No,4742,717,5459,139.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,25.46,386.11,7.07,Yes,Good Credit
+LP001822,Male,No,0,0,Graduate,No,5900,0,5900,150.0,360.0,1.0,Urban,Medium Income,Medium Loan,25.42,416.67,7.06,No,Good Credit
+LP001827,Male,No,0,0,Graduate,No,3071,4309,7380,180.0,360.0,1.0,Urban,Medium Income,Medium Loan,24.39,500.0,6.78,Yes,Good Credit
+LP001831,Male,Yes,0,0,Graduate,No,2783,1456,4239,113.0,360.0,1.0,Urban,Medium Income,Medium Loan,26.66,313.89,7.4,Yes,Good Credit
+LP001842,Male,No,0,0,Graduate,No,5000,0,5000,148.0,360.0,1.0,Rural,Medium Income,Medium Loan,29.6,411.11,8.22,No,Good Credit
+LP001853,Male,Yes,1,1,Not Graduate,No,2463,2360,4823,117.0,360.0,0.0,Urban,Medium Income,Medium Loan,24.26,325.0,6.74,Yes,Poor/No Credit
+LP001855,Male,Yes,2,2,Graduate,No,4855,0,4855,72.0,360.0,1.0,Rural,Medium Income,Small Loan,14.83,200.0,4.12,No,Good Credit
+LP001857,Male,No,0,0,Not Graduate,Yes,1599,2474,4073,125.0,300.0,1.0,Semiurban,Medium Income,Medium Loan,30.69,416.67,10.23,Yes,Good Credit
+LP001862,Male,Yes,2,2,Graduate,Yes,4246,4246,8492,214.0,360.0,1.0,Urban,High Income,Large Loan,25.2,594.44,7.0,Yes,Good Credit
+LP001867,Male,Yes,0,0,Graduate,No,4333,2291,6624,133.0,350.0,1.0,Rural,Medium Income,Medium Loan,20.08,380.0,5.74,Yes,Good Credit
+LP001878,Male,No,1,1,Graduate,No,5823,2529,8352,187.0,360.0,1.0,Semiurban,High Income,Medium Loan,22.39,519.44,6.22,Yes,Good Credit
+LP001881,Male,Yes,0,0,Not Graduate,No,7895,0,7895,143.0,360.0,1.0,Rural,Medium Income,Medium Loan,18.11,397.22,5.03,No,Good Credit
+LP001886,Male,No,0,0,Graduate,No,4150,4256,8406,209.0,360.0,1.0,Rural,High Income,Large Loan,24.86,580.56,6.91,Yes,Good Credit
+LP001906,Male,No,0,0,Graduate,No,2964,0,2964,84.0,360.0,0.0,Semiurban,Low Income,Small Loan,28.34,233.33,7.87,No,Poor/No Credit
+LP001909,Male,No,0,0,Graduate,No,5583,0,5583,116.0,360.0,1.0,Urban,Medium Income,Medium Loan,20.78,322.22,5.77,No,Good Credit
+LP001911,Female,No,0,0,Graduate,No,2708,0,2708,65.0,360.0,1.0,Rural,Low Income,Small Loan,24.0,180.56,6.67,No,Good Credit
+LP001921,Male,No,1,1,Graduate,No,3180,2370,5550,80.0,240.0,1.0,Rural,Medium Income,Small Loan,14.41,333.33,6.01,Yes,Good Credit
+LP001923,Male,No,0,0,Not Graduate,No,2268,0,2268,170.0,360.0,0.0,Semiurban,Low Income,Medium Loan,74.96,472.22,20.82,No,Poor/No Credit
+LP001933,Male,No,2,2,Not Graduate,No,1141,2017,3158,120.0,360.0,0.0,Urban,Low Income,Medium Loan,38.0,333.33,10.56,Yes,Poor/No Credit
+LP001943,Male,Yes,0,0,Graduate,No,3042,3167,6209,135.0,360.0,1.0,Urban,Medium Income,Medium Loan,21.74,375.0,6.04,Yes,Good Credit
+LP001950,Female,Yes,3,3,Graduate,No,1750,2935,4685,94.0,360.0,0.0,Semiurban,Medium Income,Small Loan,20.06,261.11,5.57,Yes,Poor/No Credit
+LP001959,Female,Yes,1,1,Graduate,No,3564,0,3564,79.0,360.0,1.0,Rural,Low Income,Small Loan,22.17,219.44,6.16,No,Good Credit
+LP001961,Female,No,0,0,Graduate,No,3958,0,3958,110.0,360.0,1.0,Rural,Low Income,Medium Loan,27.79,305.56,7.72,No,Good Credit
+LP001973,Male,Yes,2,2,Not Graduate,No,4483,0,4483,130.0,360.0,1.0,Rural,Medium Income,Medium Loan,29.0,361.11,8.06,No,Good Credit
+LP001975,Male,Yes,0,0,Graduate,No,5225,0,5225,143.0,360.0,1.0,Rural,Medium Income,Medium Loan,27.37,397.22,7.6,No,Good Credit
+LP001979,Male,No,0,0,Graduate,No,3017,2845,5862,159.0,180.0,0.0,Urban,Medium Income,Medium Loan,27.12,883.33,15.07,Yes,Poor/No Credit
+LP001995,Male,Yes,0,0,Not Graduate,No,2431,1820,4251,110.0,360.0,0.0,Rural,Medium Income,Medium Loan,25.88,305.56,7.19,Yes,Poor/No Credit
+LP001999,Male,Yes,2,2,Graduate,No,4912,4614,9526,160.0,360.0,1.0,Rural,High Income,Medium Loan,16.8,444.44,4.67,Yes,Good Credit
+LP002007,Male,Yes,2,2,Not Graduate,No,2500,3333,5833,131.0,360.0,1.0,Urban,Medium Income,Medium Loan,22.46,363.89,6.24,Yes,Good Credit
+LP002009,Female,No,0,0,Graduate,No,2918,0,2918,65.0,360.0,1.0,Rural,Low Income,Small Loan,22.28,180.56,6.19,No,Good Credit
+LP002016,Male,Yes,2,2,Graduate,No,5128,0,5128,143.0,360.0,1.0,Rural,Medium Income,Medium Loan,27.89,397.22,7.75,No,Good Credit
+LP002017,Male,Yes,3,3,Graduate,No,15312,0,15312,187.0,360.0,1.0,Urban,High Income,Medium Loan,12.21,519.44,3.39,No,Good Credit
+LP002018,Male,Yes,2,2,Graduate,No,3958,2632,6590,160.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,24.28,444.44,6.74,Yes,Good Credit
+LP002027,Male,Yes,0,0,Graduate,No,4334,2945,7279,165.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,22.67,458.33,6.3,Yes,Good Credit
+LP002028,Male,Yes,2,2,Graduate,No,4358,0,4358,110.0,360.0,1.0,Urban,Medium Income,Medium Loan,25.24,305.56,7.01,No,Good Credit
+LP002042,Female,Yes,1,1,Graduate,No,4000,3917,7917,173.0,360.0,1.0,Rural,Medium Income,Medium Loan,21.85,480.56,6.07,Yes,Good Credit
+LP002045,Male,Yes,3,3,Graduate,No,10166,750,10916,150.0,360.0,1.0,Urban,High Income,Medium Loan,13.74,416.67,3.82,Yes,Good Credit
+LP002046,Male,Yes,0,0,Not Graduate,No,4483,0,4483,135.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,30.11,375.0,8.36,No,Good Credit
+LP002047,Male,Yes,2,2,Not Graduate,No,4521,1184,5705,150.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,26.29,416.67,7.3,Yes,Good Credit
+LP002056,Male,Yes,2,2,Graduate,No,9167,0,9167,235.0,360.0,1.0,Semiurban,High Income,Large Loan,25.64,652.78,7.12,No,Good Credit
+LP002057,Male,Yes,0,0,Not Graduate,No,13083,0,13083,128.0,360.0,1.0,Rural,High Income,Medium Loan,9.78,355.56,2.72,No,Good Credit
+LP002059,Male,Yes,2,2,Graduate,No,7874,3967,11841,336.0,360.0,1.0,Rural,High Income,Large Loan,28.38,933.33,7.88,Yes,Good Credit
+LP002062,Female,Yes,1,1,Graduate,No,4333,0,4333,132.0,84.0,1.0,Rural,Medium Income,Medium Loan,30.46,1571.43,36.27,No,Good Credit
+LP002064,Male,No,0,0,Graduate,No,4083,0,4083,96.0,360.0,1.0,Urban,Medium Income,Small Loan,23.51,266.67,6.53,No,Good Credit
+LP002069,Male,Yes,2,2,Not Graduate,No,3785,2912,6697,180.0,360.0,0.0,Rural,Medium Income,Medium Loan,26.88,500.0,7.47,Yes,Poor/No Credit
+LP002070,Male,Yes,3,3,Not Graduate,No,2654,1998,4652,128.0,360.0,0.0,Rural,Medium Income,Medium Loan,27.52,355.56,7.64,Yes,Poor/No Credit
+LP002077,Male,Yes,1,1,Graduate,No,10000,2690,12690,412.0,360.0,1.0,Semiurban,High Income,Large Loan,32.47,1144.44,9.02,Yes,Good Credit
+LP002083,Male,No,0,0,Graduate,Yes,5833,0,5833,116.0,360.0,1.0,Urban,Medium Income,Medium Loan,19.89,322.22,5.52,No,Good Credit
+LP002090,Male,Yes,1,1,Graduate,No,4796,0,4796,114.0,360.0,0.0,Semiurban,Medium Income,Medium Loan,23.77,316.67,6.6,No,Poor/No Credit
+LP002096,Male,Yes,0,0,Not Graduate,No,2000,1600,3600,115.0,360.0,1.0,Rural,Low Income,Medium Loan,31.94,319.44,8.87,Yes,Good Credit
+LP002099,Male,Yes,2,2,Graduate,No,2540,700,3240,104.0,360.0,0.0,Urban,Low Income,Medium Loan,32.1,288.89,8.92,Yes,Poor/No Credit
+LP002102,Male,Yes,0,0,Graduate,Yes,1900,1442,3342,88.0,360.0,1.0,Rural,Low Income,Small Loan,26.33,244.44,7.31,Yes,Good Credit
+LP002105,Male,Yes,0,0,Graduate,Yes,8706,0,8706,108.0,480.0,1.0,Rural,High Income,Medium Loan,12.41,225.0,2.58,No,Good Credit
+LP002107,Male,Yes,3,3,Not Graduate,No,2855,542,3397,90.0,360.0,1.0,Urban,Low Income,Small Loan,26.49,250.0,7.36,Yes,Good Credit
+LP002111,Male,Yes,0,0,Graduate,No,3016,1300,4316,100.0,360.0,1.0,Urban,Medium Income,Medium Loan,23.17,277.78,6.44,Yes,Good Credit
+LP002117,Female,Yes,0,0,Graduate,No,3159,2374,5533,108.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,19.52,300.0,5.42,Yes,Good Credit
+LP002118,Female,No,0,0,Graduate,No,1937,1152,3089,78.0,360.0,1.0,Semiurban,Low Income,Small Loan,25.25,216.67,7.01,Yes,Good Credit
+LP002123,Male,Yes,0,0,Graduate,No,2613,2417,5030,123.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,24.45,341.67,6.79,Yes,Good Credit
+LP002125,Male,Yes,1,1,Graduate,No,4960,2600,7560,187.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,24.74,519.44,6.87,Yes,Good Credit
+LP002148,Male,Yes,1,1,Graduate,No,3074,1083,4157,146.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,35.12,405.56,9.76,Yes,Good Credit
+LP002152,Female,No,0,0,Graduate,No,4213,0,4213,80.0,360.0,1.0,Urban,Medium Income,Small Loan,18.99,222.22,5.27,No,Good Credit
+LP002165,Unknown,No,1,1,Not Graduate,No,2038,4027,6065,100.0,360.0,1.0,Rural,Medium Income,Medium Loan,16.49,277.78,4.58,Yes,Good Credit
+LP002167,Female,No,0,0,Graduate,No,2362,0,2362,55.0,360.0,1.0,Urban,Low Income,Small Loan,23.29,152.78,6.47,No,Good Credit
+LP002168,Male,No,0,0,Graduate,No,5333,2400,7733,200.0,360.0,0.0,Rural,Medium Income,Large Loan,25.86,555.56,7.18,Yes,Poor/No Credit
+LP002172,Male,Yes,3,3,Graduate,Yes,5384,0,5384,150.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,27.86,416.67,7.74,No,Good Credit
+LP002176,Male,No,0,0,Graduate,No,5708,0,5708,150.0,360.0,1.0,Rural,Medium Income,Medium Loan,26.28,416.67,7.3,No,Good Credit
+LP002183,Male,Yes,0,0,Not Graduate,No,3754,3719,7473,118.0,360.0,1.0,Rural,Medium Income,Medium Loan,15.79,327.78,4.39,Yes,Good Credit
+LP002184,Male,Yes,0,0,Not Graduate,No,2914,2130,5044,150.0,300.0,1.0,Urban,Medium Income,Medium Loan,29.74,500.0,9.91,Yes,Good Credit
+LP002186,Male,Yes,0,0,Not Graduate,No,2747,2458,5205,118.0,36.0,1.0,Semiurban,Medium Income,Medium Loan,22.67,3277.78,62.97,Yes,Good Credit
+LP002192,Male,Yes,0,0,Graduate,No,7830,2183,10013,212.0,360.0,1.0,Rural,High Income,Large Loan,21.17,588.89,5.88,Yes,Good Credit
+LP002195,Male,Yes,1,1,Graduate,Yes,3507,3148,6655,212.0,360.0,1.0,Rural,Medium Income,Large Loan,31.86,588.89,8.85,Yes,Good Credit
+LP002208,Male,Yes,1,1,Graduate,No,3747,2139,5886,125.0,360.0,1.0,Urban,Medium Income,Medium Loan,21.24,347.22,5.9,Yes,Good Credit
+LP002212,Male,Yes,0,0,Graduate,No,2166,2166,4332,108.0,360.0,1.0,Urban,Medium Income,Medium Loan,24.93,300.0,6.93,Yes,Good Credit
+LP002240,Male,Yes,0,0,Not Graduate,No,3500,2168,5668,149.0,360.0,1.0,Rural,Medium Income,Medium Loan,26.29,413.89,7.3,Yes,Good Credit
+LP002245,Male,Yes,2,2,Not Graduate,No,2896,0,2896,80.0,480.0,1.0,Urban,Low Income,Small Loan,27.62,166.67,5.76,No,Good Credit
+LP002253,Female,No,1,1,Graduate,No,5062,0,5062,152.0,300.0,1.0,Rural,Medium Income,Medium Loan,30.03,506.67,10.01,No,Good Credit
+LP002256,Female,No,2,2,Graduate,Yes,5184,0,5184,187.0,360.0,0.0,Semiurban,Medium Income,Medium Loan,36.07,519.44,10.02,No,Poor/No Credit
+LP002257,Female,No,0,0,Graduate,No,2545,0,2545,74.0,360.0,1.0,Urban,Low Income,Small Loan,29.08,205.56,8.08,No,Good Credit
+LP002264,Male,Yes,0,0,Graduate,No,2553,1768,4321,102.0,360.0,1.0,Urban,Medium Income,Medium Loan,23.61,283.33,6.56,Yes,Good Credit
+LP002270,Male,Yes,1,1,Graduate,No,3436,3809,7245,100.0,360.0,1.0,Rural,Medium Income,Medium Loan,13.8,277.78,3.83,Yes,Good Credit
+LP002279,Male,No,0,0,Graduate,No,2412,2755,5167,130.0,360.0,1.0,Rural,Medium Income,Medium Loan,25.16,361.11,6.99,Yes,Good Credit
+LP002286,Male,Yes,3,3,Not Graduate,No,5180,0,5180,125.0,360.0,0.0,Urban,Medium Income,Medium Loan,24.13,347.22,6.7,No,Poor/No Credit
+LP002294,Male,No,0,0,Graduate,No,14911,14507,29418,130.0,360.0,1.0,Semiurban,High Income,Medium Loan,4.42,361.11,1.23,Yes,Good Credit
+LP002298,Unknown,No,0,0,Graduate,Yes,2860,2988,5848,138.0,360.0,1.0,Urban,Medium Income,Medium Loan,23.6,383.33,6.55,Yes,Good Credit
+LP002306,Male,Yes,0,0,Graduate,No,1173,1594,2767,28.0,180.0,1.0,Rural,Low Income,Small Loan,10.12,155.56,5.62,Yes,Good Credit
+LP002310,Female,No,1,1,Graduate,No,7600,0,7600,92.0,360.0,1.0,Semiurban,Medium Income,Small Loan,12.11,255.56,3.36,No,Good Credit
+LP002311,Female,Yes,0,0,Graduate,No,2157,1788,3945,104.0,360.0,1.0,Urban,Low Income,Medium Loan,26.36,288.89,7.32,Yes,Good Credit
+LP002316,Male,No,0,0,Graduate,No,2231,2774,5005,176.0,360.0,0.0,Urban,Medium Income,Medium Loan,35.16,488.89,9.77,Yes,Poor/No Credit
+LP002321,Female,No,0,0,Graduate,No,2274,5211,7485,117.0,360.0,0.0,Semiurban,Medium Income,Medium Loan,15.63,325.0,4.34,Yes,Poor/No Credit
+LP002325,Male,Yes,2,2,Not Graduate,No,6166,13983,20149,102.0,360.0,1.0,Rural,High Income,Medium Loan,5.06,283.33,1.41,Yes,Good Credit
+LP002326,Male,Yes,2,2,Not Graduate,No,2513,1110,3623,107.0,360.0,1.0,Semiurban,Low Income,Medium Loan,29.53,297.22,8.2,Yes,Good Credit
+LP002329,Male,No,0,0,Graduate,No,4333,0,4333,66.0,480.0,1.0,Urban,Medium Income,Small Loan,15.23,137.5,3.17,No,Good Credit
+LP002333,Male,No,0,0,Not Graduate,No,3844,0,3844,105.0,360.0,1.0,Urban,Low Income,Medium Loan,27.32,291.67,7.59,No,Good Credit
+LP002339,Male,Yes,0,0,Graduate,No,3887,1517,5404,105.0,360.0,0.0,Semiurban,Medium Income,Medium Loan,19.43,291.67,5.4,Yes,Poor/No Credit
+LP002344,Male,Yes,0,0,Graduate,No,3510,828,4338,105.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,24.2,291.67,6.72,Yes,Good Credit
+LP002346,Male,Yes,0,0,Graduate,No,2539,1704,4243,125.0,360.0,0.0,Rural,Medium Income,Medium Loan,29.46,347.22,8.18,Yes,Poor/No Credit
+LP002354,Female,No,0,0,Not Graduate,No,2107,0,2107,64.0,360.0,1.0,Semiurban,Low Income,Small Loan,30.37,177.78,8.44,No,Good Credit
+LP002355,Unknown,Yes,0,0,Graduate,No,3186,3145,6331,150.0,180.0,0.0,Semiurban,Medium Income,Medium Loan,23.69,833.33,13.16,Yes,Poor/No Credit
+LP002358,Male,Yes,2,2,Graduate,Yes,5000,2166,7166,150.0,360.0,1.0,Urban,Medium Income,Medium Loan,20.93,416.67,5.81,Yes,Good Credit
+LP002360,Male,Yes,0,0,Graduate,No,10000,0,10000,128.0,360.0,1.0,Urban,High Income,Medium Loan,12.8,355.56,3.56,No,Good Credit
+LP002375,Male,Yes,0,0,Not Graduate,Yes,3943,0,3943,64.0,360.0,1.0,Semiurban,Low Income,Small Loan,16.23,177.78,4.51,No,Good Credit
+LP002376,Male,No,0,0,Graduate,No,2925,0,2925,40.0,180.0,1.0,Rural,Low Income,Small Loan,13.68,222.22,7.6,No,Good Credit
+LP002383,Male,Yes,3,3,Graduate,No,3242,437,3679,142.0,480.0,0.0,Urban,Low Income,Medium Loan,38.6,295.83,8.04,Yes,Poor/No Credit
+LP002385,Male,Yes,0,0,Graduate,No,3863,0,3863,70.0,300.0,1.0,Semiurban,Low Income,Small Loan,18.12,233.33,6.04,No,Good Credit
+LP002389,Female,No,1,1,Graduate,No,4028,0,4028,131.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,32.52,363.89,9.03,No,Good Credit
+LP002394,Male,Yes,2,2,Graduate,No,4010,1025,5035,120.0,360.0,1.0,Urban,Medium Income,Medium Loan,23.83,333.33,6.62,Yes,Good Credit
+LP002397,Female,Yes,1,1,Graduate,No,3719,1585,5304,114.0,360.0,1.0,Urban,Medium Income,Medium Loan,21.49,316.67,5.97,Yes,Good Credit
+LP002399,Male,No,0,0,Graduate,No,2858,0,2858,123.0,360.0,0.0,Rural,Low Income,Medium Loan,43.04,341.67,11.95,No,Poor/No Credit
+LP002400,Female,Yes,0,0,Graduate,No,3833,0,3833,92.0,360.0,1.0,Rural,Low Income,Small Loan,24.0,255.56,6.67,No,Good Credit
+LP002402,Male,Yes,0,0,Graduate,No,3333,4288,7621,160.0,360.0,1.0,Urban,Medium Income,Medium Loan,20.99,444.44,5.83,Yes,Good Credit
+LP002412,Male,Yes,0,0,Graduate,No,3007,3725,6732,151.0,360.0,1.0,Rural,Medium Income,Medium Loan,22.43,419.44,6.23,Yes,Good Credit
+LP002415,Female,No,1,1,Graduate,No,1850,4583,6433,81.0,360.0,1.0,Rural,Medium Income,Small Loan,12.59,225.0,3.5,Yes,Good Credit
+LP002417,Male,Yes,3,3,Not Graduate,No,2792,2619,5411,171.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,31.6,475.0,8.78,Yes,Good Credit
+LP002420,Male,Yes,0,0,Graduate,No,2982,1550,4532,110.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,24.27,305.56,6.74,Yes,Good Credit
+LP002425,Male,No,0,0,Graduate,No,3417,738,4155,100.0,360.0,1.0,Rural,Medium Income,Medium Loan,24.07,277.78,6.69,Yes,Good Credit
+LP002433,Male,Yes,1,1,Graduate,No,18840,0,18840,234.0,360.0,1.0,Rural,High Income,Large Loan,12.42,650.0,3.45,No,Good Credit
+LP002440,Male,Yes,2,2,Graduate,No,2995,1120,4115,184.0,360.0,1.0,Rural,Medium Income,Medium Loan,44.71,511.11,12.42,Yes,Good Credit
+LP002441,Male,No,0,0,Graduate,No,3579,3308,6887,138.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,20.04,383.33,5.57,Yes,Good Credit
+LP002442,Female,Yes,1,1,Not Graduate,No,3835,1400,5235,112.0,480.0,0.0,Urban,Medium Income,Medium Loan,21.39,233.33,4.46,Yes,Poor/No Credit
+LP002445,Female,No,1,1,Not Graduate,No,3854,3575,7429,117.0,360.0,1.0,Rural,Medium Income,Medium Loan,15.75,325.0,4.37,Yes,Good Credit
+LP002450,Male,Yes,2,2,Graduate,No,5833,750,6583,49.0,360.0,0.0,Rural,Medium Income,Small Loan,7.44,136.11,2.07,Yes,Poor/No Credit
+LP002471,Male,No,0,0,Graduate,No,3508,0,3508,99.0,360.0,1.0,Rural,Low Income,Small Loan,28.22,275.0,7.84,No,Good Credit
+LP002476,Female,Yes,3,3,Not Graduate,No,1635,2444,4079,99.0,360.0,1.0,Urban,Medium Income,Small Loan,24.27,275.0,6.74,Yes,Good Credit
+LP002482,Female,No,0,0,Graduate,Yes,3333,3916,7249,212.0,360.0,1.0,Rural,Medium Income,Large Loan,29.25,588.89,8.12,Yes,Good Credit
+LP002485,Male,No,1,1,Graduate,No,24797,0,24797,240.0,360.0,1.0,Semiurban,High Income,Large Loan,9.68,666.67,2.69,No,Good Credit
+LP002495,Male,Yes,2,2,Graduate,No,5667,440,6107,130.0,360.0,0.0,Semiurban,Medium Income,Medium Loan,21.29,361.11,5.91,Yes,Poor/No Credit
+LP002496,Female,No,0,0,Graduate,No,3500,0,3500,94.0,360.0,0.0,Semiurban,Low Income,Small Loan,26.86,261.11,7.46,No,Poor/No Credit
+LP002523,Male,Yes,3,3,Graduate,No,2773,1497,4270,108.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,25.29,300.0,7.03,Yes,Good Credit
+LP002542,Male,Yes,0,0,Graduate,No,6500,0,6500,144.0,360.0,1.0,Urban,Medium Income,Medium Loan,22.15,400.0,6.15,No,Good Credit
+LP002550,Female,No,0,0,Graduate,No,5769,0,5769,110.0,180.0,1.0,Semiurban,Medium Income,Medium Loan,19.07,611.11,10.59,No,Good Credit
+LP002551,Male,Yes,3,3,Not Graduate,No,3634,910,4544,176.0,360.0,0.0,Semiurban,Medium Income,Medium Loan,38.73,488.89,10.76,Yes,Poor/No Credit
+LP002553,Unknown,No,0,0,Graduate,No,29167,0,29167,185.0,360.0,1.0,Semiurban,High Income,Medium Loan,6.34,513.89,1.76,No,Good Credit
+LP002554,Male,No,0,0,Graduate,No,2166,2057,4223,122.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,28.89,338.89,8.02,Yes,Good Credit
+LP002561,Male,Yes,0,0,Graduate,No,5000,0,5000,126.0,360.0,1.0,Rural,Medium Income,Medium Loan,25.2,350.0,7.0,No,Good Credit
+LP002566,Female,No,0,0,Graduate,No,5530,0,5530,135.0,360.0,1.0,Urban,Medium Income,Medium Loan,24.41,375.0,6.78,No,Good Credit
+LP002568,Male,No,0,0,Not Graduate,No,9000,0,9000,122.0,360.0,1.0,Rural,High Income,Medium Loan,13.56,338.89,3.77,No,Good Credit
+LP002570,Female,Yes,2,2,Graduate,No,10000,11666,21666,460.0,360.0,1.0,Urban,High Income,Large Loan,21.23,1277.78,5.9,Yes,Good Credit
+LP002572,Male,Yes,1,1,Graduate,No,8750,0,8750,297.0,360.0,1.0,Urban,High Income,Large Loan,33.94,825.0,9.43,No,Good Credit
+LP002581,Male,Yes,0,0,Not Graduate,No,2157,2730,4887,140.0,360.0,1.0,Rural,Medium Income,Medium Loan,28.65,388.89,7.96,Yes,Good Credit
+LP002584,Male,No,0,0,Graduate,No,1972,4347,6319,106.0,360.0,1.0,Rural,Medium Income,Medium Loan,16.77,294.44,4.66,Yes,Good Credit
+LP002592,Male,No,0,0,Graduate,No,4983,0,4983,141.0,360.0,1.0,Urban,Medium Income,Medium Loan,28.3,391.67,7.86,No,Good Credit
+LP002593,Male,Yes,1,1,Graduate,No,8333,4000,12333,128.0,360.0,1.0,Urban,High Income,Medium Loan,10.38,355.56,2.88,Yes,Good Credit
+LP002599,Male,Yes,0,0,Graduate,No,3667,2000,5667,170.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,30.0,472.22,8.33,Yes,Good Credit
+LP002604,Male,Yes,2,2,Graduate,No,3166,2833,5999,145.0,360.0,1.0,Urban,Medium Income,Medium Loan,24.17,402.78,6.71,Yes,Good Credit
+LP002605,Male,No,0,0,Not Graduate,No,3271,0,3271,90.0,360.0,1.0,Rural,Low Income,Small Loan,27.51,250.0,7.64,No,Good Credit
+LP002609,Female,Yes,0,0,Graduate,No,2241,2000,4241,88.0,360.0,0.0,Urban,Medium Income,Small Loan,20.75,244.44,5.76,Yes,Poor/No Credit
+LP002610,Male,Yes,1,1,Not Graduate,No,1792,2565,4357,128.0,360.0,1.0,Urban,Medium Income,Medium Loan,29.38,355.56,8.16,Yes,Good Credit
+LP002612,Female,Yes,0,0,Graduate,No,2666,0,2666,84.0,480.0,1.0,Semiurban,Low Income,Small Loan,31.51,175.0,6.56,No,Good Credit
+LP002614,Unknown,No,0,0,Graduate,No,6478,0,6478,108.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,16.67,300.0,4.63,No,Good Credit
+LP002630,Male,No,0,0,Not Graduate,No,3808,0,3808,83.0,360.0,1.0,Rural,Low Income,Small Loan,21.8,230.56,6.05,No,Good Credit
+LP002635,Female,Yes,2,2,Not Graduate,No,3729,0,3729,117.0,360.0,1.0,Semiurban,Low Income,Medium Loan,31.38,325.0,8.72,No,Good Credit
+LP002639,Male,Yes,2,2,Graduate,No,4120,0,4120,128.0,360.0,1.0,Rural,Medium Income,Medium Loan,31.07,355.56,8.63,No,Good Credit
+LP002644,Male,Yes,1,1,Graduate,Yes,7500,0,7500,75.0,360.0,1.0,Urban,Medium Income,Small Loan,10.0,208.33,2.78,No,Good Credit
+LP002651,Male,Yes,1,1,Graduate,No,6300,0,6300,125.0,360.0,0.0,Urban,Medium Income,Medium Loan,19.84,347.22,5.51,No,Poor/No Credit
+LP002654,Female,No,0,0,Graduate,Yes,14987,0,14987,177.0,360.0,1.0,Rural,High Income,Medium Loan,11.81,491.67,3.28,No,Good Credit
+LP002657,Unknown,Yes,1,1,Not Graduate,Yes,570,2125,2695,68.0,360.0,1.0,Rural,Low Income,Small Loan,25.23,188.89,7.01,Yes,Good Credit
+LP002711,Male,Yes,0,0,Graduate,No,2600,700,3300,96.0,360.0,1.0,Semiurban,Low Income,Small Loan,29.09,266.67,8.08,Yes,Good Credit
+LP002712,Male,No,2,2,Not Graduate,No,2733,1083,3816,180.0,360.0,1.0,Semiurban,Low Income,Medium Loan,47.17,500.0,13.1,Yes,Good Credit
+LP002721,Male,Yes,2,2,Graduate,Yes,7500,0,7500,183.0,360.0,1.0,Rural,Medium Income,Medium Loan,24.4,508.33,6.78,No,Good Credit
+LP002735,Male,Yes,2,2,Not Graduate,No,3859,0,3859,121.0,360.0,1.0,Rural,Low Income,Medium Loan,31.36,336.11,8.71,No,Good Credit
+LP002744,Male,Yes,1,1,Graduate,No,6825,0,6825,162.0,360.0,1.0,Rural,Medium Income,Medium Loan,23.74,450.0,6.59,No,Good Credit
+LP002745,Male,Yes,0,0,Graduate,No,3708,4700,8408,132.0,360.0,1.0,Semiurban,High Income,Medium Loan,15.7,366.67,4.36,Yes,Good Credit
+LP002746,Male,No,0,0,Graduate,No,5314,0,5314,147.0,360.0,1.0,Urban,Medium Income,Medium Loan,27.66,408.33,7.68,No,Good Credit
+LP002747,Female,No,3,3,Graduate,No,2366,5272,7638,153.0,360.0,0.0,Rural,Medium Income,Medium Loan,20.03,425.0,5.56,Yes,Poor/No Credit
+LP002754,Male,No,0,0,Graduate,No,2066,2108,4174,104.0,84.0,1.0,Urban,Medium Income,Medium Loan,24.92,1238.1,29.66,Yes,Good Credit
+LP002759,Male,Yes,2,2,Graduate,No,5000,0,5000,149.0,360.0,1.0,Rural,Medium Income,Medium Loan,29.8,413.89,8.28,No,Good Credit
+LP002760,Female,No,0,0,Graduate,No,3767,0,3767,134.0,300.0,1.0,Urban,Low Income,Medium Loan,35.57,446.67,11.86,No,Good Credit
+LP002766,Female,Yes,0,0,Graduate,No,7859,879,8738,165.0,180.0,1.0,Semiurban,High Income,Medium Loan,18.88,916.67,10.49,Yes,Good Credit
+LP002769,Female,Yes,0,0,Graduate,No,4283,0,4283,120.0,360.0,1.0,Rural,Medium Income,Medium Loan,28.02,333.33,7.78,No,Good Credit
+LP002774,Male,Yes,0,0,Not Graduate,No,1700,2900,4600,67.0,360.0,0.0,Urban,Medium Income,Small Loan,14.57,186.11,4.05,Yes,Poor/No Credit
+LP002775,Unknown,No,0,0,Not Graduate,No,4768,0,4768,125.0,360.0,1.0,Rural,Medium Income,Medium Loan,26.22,347.22,7.28,No,Good Credit
+LP002781,Male,No,0,0,Graduate,No,3083,2738,5821,120.0,360.0,1.0,Urban,Medium Income,Medium Loan,20.62,333.33,5.73,Yes,Good Credit
+LP002782,Male,Yes,1,1,Graduate,No,2667,1542,4209,148.0,360.0,1.0,Rural,Medium Income,Medium Loan,35.16,411.11,9.77,Yes,Good Credit
+LP002786,Female,Yes,0,0,Not Graduate,No,1647,1762,3409,181.0,360.0,1.0,Urban,Low Income,Medium Loan,53.09,502.78,14.75,Yes,Good Credit
+LP002790,Male,Yes,3,3,Graduate,No,3400,0,3400,80.0,120.0,1.0,Urban,Low Income,Small Loan,23.53,666.67,19.61,No,Good Credit
+LP002791,Male,No,1,1,Graduate,No,16000,5000,21000,40.0,360.0,1.0,Semiurban,High Income,Small Loan,1.9,111.11,0.53,Yes,Good Credit
+LP002793,Male,Yes,0,0,Graduate,No,5333,0,5333,90.0,360.0,1.0,Rural,Medium Income,Small Loan,16.88,250.0,4.69,No,Good Credit
+LP002802,Male,No,0,0,Graduate,No,2875,2416,5291,95.0,6.0,0.0,Semiurban,Medium Income,Small Loan,17.96,15833.33,299.25,Yes,Poor/No Credit
+LP002803,Male,Yes,1,1,Not Graduate,No,2600,618,3218,122.0,360.0,1.0,Semiurban,Low Income,Medium Loan,37.91,338.89,10.53,Yes,Good Credit
+LP002805,Male,Yes,2,2,Graduate,No,5041,700,5741,150.0,360.0,1.0,Urban,Medium Income,Medium Loan,26.13,416.67,7.26,Yes,Good Credit
+LP002806,Male,Yes,3,3,Graduate,Yes,6958,1411,8369,150.0,360.0,1.0,Rural,High Income,Medium Loan,17.92,416.67,4.98,Yes,Good Credit
+LP002816,Male,Yes,1,1,Graduate,No,3500,1658,5158,104.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,20.16,288.89,5.6,Yes,Good Credit
+LP002823,Male,Yes,0,0,Graduate,No,5509,0,5509,143.0,360.0,1.0,Rural,Medium Income,Medium Loan,25.96,397.22,7.21,No,Good Credit
+LP002825,Male,Yes,3,3,Graduate,No,9699,0,9699,300.0,360.0,1.0,Urban,High Income,Large Loan,30.93,833.33,8.59,No,Good Credit
+LP002826,Female,Yes,1,1,Not Graduate,No,3621,2717,6338,171.0,360.0,1.0,Urban,Medium Income,Medium Loan,26.98,475.0,7.49,Yes,Good Credit
+LP002843,Female,Yes,0,0,Graduate,No,4709,0,4709,113.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,24.0,313.89,6.67,No,Good Credit
+LP002849,Male,Yes,0,0,Graduate,No,1516,1951,3467,35.0,360.0,1.0,Semiurban,Low Income,Small Loan,10.1,97.22,2.8,Yes,Good Credit
+LP002850,Male,No,2,2,Graduate,No,2400,0,2400,46.0,360.0,1.0,Urban,Low Income,Small Loan,19.17,127.78,5.32,No,Good Credit
+LP002853,Female,No,0,0,Not Graduate,No,3015,2000,5015,145.0,360.0,1.0,Urban,Medium Income,Medium Loan,28.91,402.78,8.03,Yes,Good Credit
+LP002856,Male,Yes,0,0,Graduate,No,2292,1558,3850,119.0,360.0,1.0,Urban,Low Income,Medium Loan,30.91,330.56,8.59,Yes,Good Credit
+LP002857,Male,Yes,1,1,Graduate,Yes,2360,3355,5715,87.0,240.0,1.0,Rural,Medium Income,Small Loan,15.22,362.5,6.34,Yes,Good Credit
+LP002858,Female,No,0,0,Graduate,No,4333,2333,6666,162.0,360.0,0.0,Rural,Medium Income,Medium Loan,24.3,450.0,6.75,Yes,Poor/No Credit
+LP002860,Male,Yes,0,0,Graduate,Yes,2623,4831,7454,122.0,180.0,1.0,Semiurban,Medium Income,Medium Loan,16.37,677.78,9.09,Yes,Good Credit
+LP002867,Male,No,0,0,Graduate,Yes,3972,4275,8247,187.0,360.0,1.0,Rural,High Income,Medium Loan,22.67,519.44,6.3,Yes,Good Credit
+LP002869,Male,Yes,3,3,Not Graduate,No,3522,0,3522,81.0,180.0,1.0,Rural,Low Income,Small Loan,23.0,450.0,12.78,No,Good Credit
+LP002870,Male,Yes,1,1,Graduate,No,4700,0,4700,80.0,360.0,1.0,Urban,Medium Income,Small Loan,17.02,222.22,4.73,No,Good Credit
+LP002876,Male,No,0,0,Graduate,No,6858,0,6858,176.0,360.0,1.0,Rural,Medium Income,Medium Loan,25.66,488.89,7.13,No,Good Credit
+LP002878,Male,Yes,3,3,Graduate,No,8334,0,8334,260.0,360.0,1.0,Urban,High Income,Large Loan,31.2,722.22,8.67,No,Good Credit
+LP002879,Male,Yes,0,0,Graduate,No,3391,1966,5357,133.0,360.0,0.0,Rural,Medium Income,Medium Loan,24.83,369.44,6.9,Yes,Poor/No Credit
+LP002885,Male,No,0,0,Not Graduate,No,2868,0,2868,70.0,360.0,1.0,Urban,Low Income,Small Loan,24.41,194.44,6.78,No,Good Credit
+LP002890,Male,Yes,2,2,Not Graduate,No,3418,1380,4798,135.0,360.0,1.0,Urban,Medium Income,Medium Loan,28.14,375.0,7.82,Yes,Good Credit
+LP002891,Male,Yes,0,0,Graduate,Yes,2500,296,2796,137.0,300.0,1.0,Rural,Low Income,Medium Loan,49.0,456.67,16.33,Yes,Good Credit
+LP002899,Male,Yes,2,2,Graduate,No,8667,0,8667,254.0,360.0,1.0,Rural,High Income,Large Loan,29.31,705.56,8.14,No,Good Credit
+LP002901,Male,No,0,0,Graduate,No,2283,15000,17283,106.0,360.0,1.0,Rural,High Income,Medium Loan,6.13,294.44,1.7,Yes,Good Credit
+LP002907,Male,Yes,0,0,Graduate,No,5817,910,6727,109.0,360.0,1.0,Urban,Medium Income,Medium Loan,16.2,302.78,4.5,Yes,Good Credit
+LP002920,Male,Yes,0,0,Graduate,No,5119,3769,8888,120.0,360.0,1.0,Rural,High Income,Medium Loan,13.5,333.33,3.75,Yes,Good Credit
+LP002921,Male,Yes,3,3,Not Graduate,No,5316,187,5503,158.0,180.0,0.0,Semiurban,Medium Income,Medium Loan,28.71,877.78,15.95,Yes,Poor/No Credit
+LP002932,Male,Yes,3,3,Graduate,No,7603,1213,8816,197.0,360.0,1.0,Urban,High Income,Medium Loan,22.35,547.22,6.21,Yes,Good Credit
+LP002935,Male,Yes,1,1,Graduate,No,3791,1936,5727,85.0,360.0,1.0,Urban,Medium Income,Small Loan,14.84,236.11,4.12,Yes,Good Credit
+LP002952,Male,No,0,0,Graduate,No,2500,0,2500,60.0,360.0,1.0,Urban,Low Income,Small Loan,24.0,166.67,6.67,No,Good Credit
+LP002954,Male,Yes,2,2,Not Graduate,No,3132,0,3132,76.0,360.0,1.0,Rural,Low Income,Small Loan,24.27,211.11,6.74,No,Good Credit
+LP002962,Male,No,0,0,Graduate,No,4000,2667,6667,152.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,22.8,422.22,6.33,Yes,Good Credit
+LP002965,Female,Yes,0,0,Graduate,No,8550,4255,12805,96.0,360.0,1.0,Urban,High Income,Small Loan,7.5,266.67,2.08,Yes,Good Credit
+LP002969,Male,Yes,1,1,Graduate,No,2269,2167,4436,99.0,360.0,1.0,Semiurban,Medium Income,Small Loan,22.32,275.0,6.2,Yes,Good Credit
+LP002971,Male,Yes,3,3,Not Graduate,Yes,4009,1777,5786,113.0,360.0,1.0,Urban,Medium Income,Medium Loan,19.53,313.89,5.42,Yes,Good Credit
+LP002975,Male,Yes,0,0,Graduate,No,4158,709,4867,115.0,360.0,1.0,Urban,Medium Income,Medium Loan,23.63,319.44,6.56,Yes,Good Credit
+LP002980,Male,No,0,0,Graduate,No,3250,1993,5243,126.0,360.0,1.0,Semiurban,Medium Income,Medium Loan,24.03,350.0,6.68,Yes,Good Credit
+LP002986,Male,Yes,0,0,Graduate,No,5000,2393,7393,158.0,360.0,1.0,Rural,Medium Income,Medium Loan,21.37,438.89,5.94,Yes,Good Credit
+LP002989,Male,No,0,0,Graduate,Yes,9200,0,9200,98.0,180.0,1.0,Rural,High Income,Small Loan,10.65,544.44,5.92,No,Good Credit

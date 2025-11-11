@@ -1,0 +1,368 @@
+Loan_ID,Gender,Married,Education,TotalIncome,LoanAmount,Credit_History,Loan_to_Income_Ratio,Payment_to_Income_Pct,Risk_Category
+LP001015,Male,Yes,Graduate,5720,110.0,1.0,19.23,5.34,Medium-High Risk
+LP001022,Male,Yes,Graduate,4576,126.0,1.0,27.53,7.65,Medium-High Risk
+LP001031,Male,Yes,Graduate,6800,208.0,1.0,30.59,8.5,Medium-High Risk
+LP001035,Male,Yes,Graduate,4886,100.0,1.0,20.47,5.69,Medium-High Risk
+LP001051,Male,No,Not Graduate,3276,78.0,1.0,23.81,6.61,Medium-High Risk
+LP001054,Male,Yes,Not Graduate,5587,152.0,1.0,27.21,7.56,Medium-High Risk
+LP001055,Female,No,Not Graduate,2226,59.0,1.0,26.5,7.36,Medium-High Risk
+LP001056,Male,Yes,Not Graduate,3881,147.0,0.0,37.88,10.52,High Risk
+LP001059,Male,Yes,Graduate,13633,280.0,1.0,20.54,8.56,Medium-High Risk
+LP001067,Male,No,Not Graduate,4800,123.0,1.0,25.63,7.12,Medium-High Risk
+LP001078,Male,No,Not Graduate,3091,90.0,1.0,29.12,8.09,Medium-High Risk
+LP001082,Male,Yes,Graduate,3701,162.0,1.0,43.77,12.16,Medium-High Risk
+LP001083,Male,No,Graduate,4166,40.0,1.0,9.6,5.33,Medium-High Risk
+LP001094,Male,Yes,Graduate,12173,166.0,0.0,13.64,3.79,High Risk
+LP001096,Female,No,Graduate,4666,124.0,1.0,26.58,7.38,Medium-High Risk
+LP001099,Male,No,Graduate,5667,131.0,1.0,23.12,6.42,Medium-High Risk
+LP001105,Male,Yes,Graduate,7499,200.0,1.0,26.67,7.41,Medium-High Risk
+LP001107,Male,Yes,Graduate,4119,126.0,1.0,30.59,8.5,Medium-High Risk
+LP001108,Male,Yes,Graduate,17142,300.0,1.0,17.5,4.86,Medium-High Risk
+LP001115,Male,No,Graduate,4770,100.0,1.0,20.96,11.65,Medium-High Risk
+LP001121,Male,Yes,Not Graduate,3508,48.0,1.0,13.68,3.8,Medium-High Risk
+LP001124,Female,No,Not Graduate,2083,28.0,1.0,13.44,7.47,Medium-High Risk
+LP001128,Unknown,No,Graduate,3909,101.0,1.0,25.84,7.18,Medium-High Risk
+LP001135,Female,No,Not Graduate,3765,125.0,1.0,33.2,9.22,Medium-High Risk
+LP001149,Male,Yes,Graduate,9780,290.0,1.0,29.65,8.24,Medium-High Risk
+LP001153,Male,No,Graduate,24000,148.0,0.0,6.17,1.71,High Risk
+LP001163,Male,Yes,Graduate,5613,140.0,1.0,24.94,6.93,Medium-High Risk
+LP001169,Male,Yes,Graduate,11250,275.0,1.0,24.44,6.79,Medium-High Risk
+LP001174,Male,Yes,Graduate,4605,57.0,1.0,12.38,3.44,Medium-High Risk
+LP001176,Male,No,Graduate,5324,125.0,1.0,23.48,13.04,Medium-High Risk
+LP001177,Female,No,Not Graduate,2478,75.0,1.0,30.27,8.41,Medium-High Risk
+LP001183,Male,Yes,Graduate,7070,192.0,1.0,27.16,7.54,Medium-High Risk
+LP001185,Male,No,Graduate,4951,152.0,1.0,30.7,8.53,Medium-High Risk
+LP001187,Male,Yes,Graduate,5491,158.0,1.0,28.77,7.99,Medium-High Risk
+LP001190,Male,Yes,Graduate,4281,101.0,1.0,23.59,6.55,Medium-High Risk
+LP001203,Male,No,Graduate,3150,176.0,0.0,55.87,15.52,High Risk
+LP001208,Male,Yes,Graduate,11379,185.0,1.0,16.26,9.03,Medium-High Risk
+LP001210,Male,Yes,Graduate,5059,90.0,1.0,17.79,4.94,Medium-High Risk
+LP001211,Male,No,Graduate,5833,116.0,1.0,19.89,5.52,Medium-High Risk
+LP001219,Male,No,Graduate,5606,138.0,1.0,24.62,6.84,Medium-High Risk
+LP001220,Male,Yes,Graduate,6447,100.0,1.0,15.51,4.31,Medium-High Risk
+LP001221,Female,No,Graduate,3644,110.0,1.0,30.19,8.39,Medium-High Risk
+LP001226,Male,Yes,Not Graduate,3774,90.0,1.0,23.85,6.62,Medium-High Risk
+LP001230,Male,No,Graduate,9100,200.0,1.0,21.98,6.11,Medium-High Risk
+LP001231,Female,No,Graduate,3666,84.0,1.0,22.91,6.36,Medium-High Risk
+LP001232,Male,Yes,Graduate,8160,185.0,1.0,22.67,6.3,Medium-High Risk
+LP001237,Male,Yes,Not Graduate,5638,162.0,1.0,28.73,7.98,Medium-High Risk
+LP001242,Male,No,Not Graduate,4258,108.0,1.0,25.36,7.05,Medium-High Risk
+LP001268,Male,No,Graduate,10130,187.0,1.0,18.46,5.13,Medium-High Risk
+LP001270,Male,Yes,Not Graduate,8250,187.0,1.0,22.67,6.3,Medium-High Risk
+LP001284,Male,Yes,Graduate,4126,124.0,1.0,30.05,8.35,Medium-High Risk
+LP001287,Unknown,Yes,Not Graduate,4333,120.0,1.0,27.69,7.69,Medium-High Risk
+LP001291,Male,Yes,Graduate,6577,160.0,1.0,24.33,6.76,Medium-High Risk
+LP001298,Male,Yes,Graduate,5116,30.0,1.0,5.86,3.26,Medium-High Risk
+LP001312,Male,Yes,Not Graduate,5293,92.0,1.0,17.38,4.83,Medium-High Risk
+LP001313,Male,No,Graduate,2750,130.0,0.0,47.27,13.13,High Risk
+LP001317,Female,No,Not Graduate,4402,130.0,1.0,29.53,8.2,Medium-High Risk
+LP001321,Male,Yes,Graduate,7152,134.0,1.0,18.74,10.41,Medium-High Risk
+LP001323,Female,Yes,Graduate,6443,176.0,0.0,27.32,7.59,High Risk
+LP001324,Male,Yes,Graduate,4720,90.0,1.0,19.07,10.59,Medium-High Risk
+LP001332,Male,Yes,Not Graduate,4136,110.0,1.0,26.6,7.39,Medium-High Risk
+LP001335,Male,Yes,Graduate,7308,125.0,1.0,17.1,4.75,Medium-High Risk
+LP001338,Female,No,Graduate,4968,189.0,1.0,38.04,10.57,Medium-High Risk
+LP001347,Female,No,Graduate,3601,108.0,0.0,29.99,8.33,High Risk
+LP001348,Male,Yes,Not Graduate,4490,125.0,1.0,27.84,7.73,Medium-High Risk
+LP001351,Male,Yes,Graduate,6500,138.0,1.0,21.23,5.9,Medium-High Risk
+LP001352,Male,Yes,Not Graduate,4700,135.0,0.0,28.72,7.98,High Risk
+LP001358,Male,Yes,Graduate,3445,130.0,0.0,37.74,10.48,High Risk
+LP001359,Male,Yes,Graduate,7666,187.0,1.0,24.39,6.78,Medium-High Risk
+LP001361,Male,Yes,Graduate,7563,188.0,0.0,24.86,6.9,High Risk
+LP001366,Female,No,Graduate,3250,95.0,1.0,29.23,8.12,Medium-High Risk
+LP001368,Male,No,Graduate,4463,65.0,1.0,14.56,4.05,Medium-High Risk
+LP001375,Male,Yes,Graduate,5858,139.0,1.0,23.73,39.55,Medium-High Risk
+LP001380,Male,Yes,Graduate,5994,232.0,1.0,38.71,10.75,Medium-High Risk
+LP001386,Male,Yes,Not Graduate,8333,144.0,1.0,17.28,4.8,Medium-High Risk
+LP001400,Male,No,Graduate,7018,155.0,1.0,22.09,6.14,Medium-High Risk
+LP001407,Male,Yes,Graduate,5556,186.0,1.0,33.48,9.3,Medium-High Risk
+LP001413,Male,No,Graduate,6356,50.0,1.0,7.87,2.19,Medium-High Risk
+LP001415,Male,Yes,Graduate,7466,128.0,1.0,17.14,4.76,Medium-High Risk
+LP001419,Female,Yes,Graduate,7950,185.0,1.0,23.27,6.46,Medium-High Risk
+LP001420,Male,Yes,Graduate,4932,163.0,0.0,33.05,9.18,High Risk
+LP001428,Male,Yes,Graduate,72529,360.0,1.0,4.96,1.38,Medium-Low Risk
+LP001445,Male,Yes,Not Graduate,4136,149.0,0.0,36.03,7.51,High Risk
+LP001446,Male,Yes,Graduate,8449,257.0,1.0,30.42,8.45,Medium-High Risk
+LP001450,Male,Yes,Graduate,4456,131.0,0.0,29.4,16.33,High Risk
+LP001452,Male,Yes,Graduate,12635,102.0,1.0,8.07,4.48,Medium-High Risk
+LP001455,Male,Yes,Graduate,5488,135.0,1.0,24.6,6.83,Medium-High Risk
+LP001466,Male,No,Graduate,3066,95.0,1.0,30.98,8.61,Medium-High Risk
+LP001471,Male,No,Not Graduate,5250,77.0,1.0,14.67,4.07,Medium-High Risk
+LP001472,Female,No,Graduate,5058,200.0,1.0,39.54,10.98,Medium-High Risk
+LP001475,Male,Yes,Graduate,5474,130.0,1.0,23.75,6.6,Medium-High Risk
+LP001483,Male,Yes,Graduate,13518,390.0,1.0,28.85,8.01,Medium-High Risk
+LP001486,Male,Yes,Graduate,6864,185.0,1.0,26.95,7.49,Medium-High Risk
+LP001490,Male,Yes,Not Graduate,6412,100.0,1.0,15.6,4.33,Medium-High Risk
+LP001496,Male,Yes,Graduate,6942,123.0,0.0,17.72,4.92,High Risk
+LP001499,Female,Yes,Graduate,6260,110.0,1.0,17.57,4.88,Medium-High Risk
+LP001500,Male,Yes,Graduate,7533,256.0,1.0,33.98,9.44,Medium-High Risk
+LP001501,Male,Yes,Graduate,6750,140.0,1.0,20.74,5.76,Medium-High Risk
+LP001517,Male,Yes,Graduate,9719,61.0,1.0,6.28,1.74,Medium-High Risk
+LP001527,Male,Yes,Graduate,6835,188.0,1.0,27.51,7.64,Medium-High Risk
+LP001534,Male,No,Graduate,4452,131.0,1.0,29.42,8.17,Medium-High Risk
+LP001542,Female,Yes,Graduate,2262,128.0,0.0,56.59,11.79,High Risk
+LP001547,Male,Yes,Graduate,3901,116.0,1.0,29.74,8.26,Medium-High Risk
+LP001548,Male,Yes,Not Graduate,2687,50.0,1.0,18.61,10.34,Medium-High Risk
+LP001558,Male,No,Graduate,4476,107.0,1.0,23.91,6.64,Medium-High Risk
+LP001561,Female,Yes,Graduate,4704,200.0,1.0,42.52,11.81,Medium-High Risk
+LP001563,Unknown,No,Graduate,3356,119.0,0.0,35.46,9.85,High Risk
+LP001567,Male,Yes,Graduate,4513,120.0,1.0,26.59,7.39,Medium-High Risk
+LP001568,Male,Yes,Graduate,4500,140.0,1.0,31.11,8.64,Medium-High Risk
+LP001573,Male,Yes,Not Graduate,5873,165.0,1.0,28.09,7.8,Medium-High Risk
+LP001584,Female,No,Graduate,4742,108.0,1.0,22.78,6.33,Medium-High Risk
+LP001587,Male,Yes,Graduate,4082,93.0,1.0,22.78,6.33,Medium-High Risk
+LP001589,Female,No,Graduate,3417,102.0,1.0,29.85,8.29,Medium-High Risk
+LP001591,Female,Yes,Graduate,6318,122.0,1.0,19.31,5.36,Medium-High Risk
+LP001599,Male,Yes,Graduate,8921,160.0,1.0,17.94,4.98,Medium-High Risk
+LP001601,Male,No,Graduate,8366,157.0,1.0,18.77,5.21,Medium-High Risk
+LP001607,Female,No,Not Graduate,1760,180.0,1.0,102.27,28.41,Medium-High Risk
+LP001611,Male,Yes,Graduate,4416,80.0,0.0,18.12,5.03,High Risk
+LP001613,Female,No,Graduate,4428,104.0,0.0,23.49,6.52,High Risk
+LP001622,Male,Yes,Graduate,4234,213.0,0.0,50.31,13.97,High Risk
+LP001627,Male,No,Graduate,3125,65.0,1.0,20.8,5.78,Medium-High Risk
+LP001650,Male,Yes,Graduate,6136,146.0,1.0,23.79,6.61,Medium-High Risk
+LP001651,Male,Yes,Graduate,4910,135.0,1.0,27.49,7.64,Medium-High Risk
+LP001652,Male,No,Graduate,8914,187.0,0.0,20.98,5.83,High Risk
+LP001655,Female,No,Graduate,12500,300.0,0.0,24.0,6.67,High Risk
+LP001660,Male,No,Graduate,4667,120.0,1.0,25.71,7.14,Medium-High Risk
+LP001662,Male,No,Graduate,6500,71.0,0.0,10.92,3.03,High Risk
+LP001663,Male,Yes,Graduate,7500,225.0,1.0,30.0,8.33,Medium-High Risk
+LP001667,Male,No,Graduate,3073,70.0,1.0,22.78,12.66,Medium-High Risk
+LP001695,Male,Yes,Not Graduate,5409,70.0,1.0,12.94,3.59,Medium-High Risk
+LP001703,Male,Yes,Graduate,4603,124.0,1.0,26.94,7.48,Medium-High Risk
+LP001718,Male,No,Graduate,3391,132.0,1.0,38.93,10.81,Medium-High Risk
+LP001728,Male,Yes,Graduate,4860,105.0,1.0,21.6,6.0,Medium-High Risk
+LP001735,Female,No,Graduate,3620,90.0,1.0,24.86,6.91,Medium-High Risk
+LP001737,Male,No,Graduate,4000,83.0,1.0,20.75,24.7,Medium-High Risk
+LP001739,Male,Yes,Graduate,4258,125.0,1.0,29.36,8.15,Medium-High Risk
+LP001742,Male,Yes,Graduate,4500,147.0,1.0,32.67,9.07,Medium-High Risk
+LP001757,Male,Yes,Graduate,4939,120.0,1.0,24.3,6.75,Medium-High Risk
+LP001769,Unknown,No,Graduate,4583,110.0,1.0,24.0,6.67,Medium-High Risk
+LP001771,Female,No,Graduate,4083,103.0,1.0,25.23,7.01,Medium-High Risk
+LP001785,Male,No,Graduate,4727,150.0,0.0,31.73,8.81,High Risk
+LP001787,Male,Yes,Graduate,6088,100.0,1.0,16.43,6.84,Medium-High Risk
+LP001789,Male,Yes,Not Graduate,7322,139.0,0.0,18.98,5.27,High Risk
+LP001791,Male,Yes,Graduate,32000,550.0,1.0,17.19,4.77,Medium-High Risk
+LP001794,Male,Yes,Graduate,10890,260.0,1.0,23.88,198.96,High Risk
+LP001797,Female,No,Graduate,12941,150.0,1.0,11.59,3.86,Medium-High Risk
+LP001815,Male,No,Not Graduate,3276,90.0,1.0,27.47,7.63,Medium-High Risk
+LP001817,Male,No,Not Graduate,8703,199.0,0.0,22.87,6.35,High Risk
+LP001818,Male,Yes,Graduate,5459,139.0,1.0,25.46,7.07,Medium-High Risk
+LP001822,Male,No,Graduate,5900,150.0,1.0,25.42,7.06,Medium-High Risk
+LP001827,Male,No,Graduate,7380,180.0,1.0,24.39,6.78,Medium-High Risk
+LP001831,Male,Yes,Graduate,4239,113.0,1.0,26.66,7.4,Medium-High Risk
+LP001842,Male,No,Graduate,5000,148.0,1.0,29.6,8.22,Medium-High Risk
+LP001853,Male,Yes,Not Graduate,4823,117.0,0.0,24.26,6.74,High Risk
+LP001855,Male,Yes,Graduate,4855,72.0,1.0,14.83,4.12,Medium-High Risk
+LP001857,Male,No,Not Graduate,4073,125.0,1.0,30.69,10.23,Medium-High Risk
+LP001862,Male,Yes,Graduate,8492,214.0,1.0,25.2,7.0,Medium-High Risk
+LP001867,Male,Yes,Graduate,6624,133.0,1.0,20.08,5.74,Medium-High Risk
+LP001878,Male,No,Graduate,8352,187.0,1.0,22.39,6.22,Medium-High Risk
+LP001881,Male,Yes,Not Graduate,7895,143.0,1.0,18.11,5.03,Medium-High Risk
+LP001886,Male,No,Graduate,8406,209.0,1.0,24.86,6.91,Medium-High Risk
+LP001906,Male,No,Graduate,2964,84.0,0.0,28.34,7.87,High Risk
+LP001909,Male,No,Graduate,5583,116.0,1.0,20.78,5.77,Medium-High Risk
+LP001911,Female,No,Graduate,2708,65.0,1.0,24.0,6.67,Medium-High Risk
+LP001921,Male,No,Graduate,5550,80.0,1.0,14.41,6.01,Medium-High Risk
+LP001923,Male,No,Not Graduate,2268,170.0,0.0,74.96,20.82,High Risk
+LP001933,Male,No,Not Graduate,3158,120.0,0.0,38.0,10.56,High Risk
+LP001943,Male,Yes,Graduate,6209,135.0,1.0,21.74,6.04,Medium-High Risk
+LP001950,Female,Yes,Graduate,4685,94.0,0.0,20.06,5.57,High Risk
+LP001959,Female,Yes,Graduate,3564,79.0,1.0,22.17,6.16,Medium-High Risk
+LP001961,Female,No,Graduate,3958,110.0,1.0,27.79,7.72,Medium-High Risk
+LP001973,Male,Yes,Not Graduate,4483,130.0,1.0,29.0,8.06,Medium-High Risk
+LP001975,Male,Yes,Graduate,5225,143.0,1.0,27.37,7.6,Medium-High Risk
+LP001979,Male,No,Graduate,5862,159.0,0.0,27.12,15.07,High Risk
+LP001995,Male,Yes,Not Graduate,4251,110.0,0.0,25.88,7.19,High Risk
+LP001999,Male,Yes,Graduate,9526,160.0,1.0,16.8,4.67,Medium-High Risk
+LP002007,Male,Yes,Not Graduate,5833,131.0,1.0,22.46,6.24,Medium-High Risk
+LP002009,Female,No,Graduate,2918,65.0,1.0,22.28,6.19,Medium-High Risk
+LP002016,Male,Yes,Graduate,5128,143.0,1.0,27.89,7.75,Medium-High Risk
+LP002017,Male,Yes,Graduate,15312,187.0,1.0,12.21,3.39,Medium-High Risk
+LP002018,Male,Yes,Graduate,6590,160.0,1.0,24.28,6.74,Medium-High Risk
+LP002027,Male,Yes,Graduate,7279,165.0,1.0,22.67,6.3,Medium-High Risk
+LP002028,Male,Yes,Graduate,4358,110.0,1.0,25.24,7.01,Medium-High Risk
+LP002042,Female,Yes,Graduate,7917,173.0,1.0,21.85,6.07,Medium-High Risk
+LP002045,Male,Yes,Graduate,10916,150.0,1.0,13.74,3.82,Medium-High Risk
+LP002046,Male,Yes,Not Graduate,4483,135.0,1.0,30.11,8.36,Medium-High Risk
+LP002047,Male,Yes,Not Graduate,5705,150.0,1.0,26.29,7.3,Medium-High Risk
+LP002056,Male,Yes,Graduate,9167,235.0,1.0,25.64,7.12,Medium-High Risk
+LP002057,Male,Yes,Not Graduate,13083,128.0,1.0,9.78,2.72,Medium-High Risk
+LP002059,Male,Yes,Graduate,11841,336.0,1.0,28.38,7.88,Medium-High Risk
+LP002062,Female,Yes,Graduate,4333,132.0,1.0,30.46,36.27,Medium-High Risk
+LP002064,Male,No,Graduate,4083,96.0,1.0,23.51,6.53,Medium-High Risk
+LP002069,Male,Yes,Not Graduate,6697,180.0,0.0,26.88,7.47,High Risk
+LP002070,Male,Yes,Not Graduate,4652,128.0,0.0,27.52,7.64,High Risk
+LP002077,Male,Yes,Graduate,12690,412.0,1.0,32.47,9.02,Medium-High Risk
+LP002083,Male,No,Graduate,5833,116.0,1.0,19.89,5.52,Medium-High Risk
+LP002090,Male,Yes,Graduate,4796,114.0,0.0,23.77,6.6,High Risk
+LP002096,Male,Yes,Not Graduate,3600,115.0,1.0,31.94,8.87,Medium-High Risk
+LP002099,Male,Yes,Graduate,3240,104.0,0.0,32.1,8.92,High Risk
+LP002102,Male,Yes,Graduate,3342,88.0,1.0,26.33,7.31,Medium-High Risk
+LP002105,Male,Yes,Graduate,8706,108.0,1.0,12.41,2.58,Medium-High Risk
+LP002107,Male,Yes,Not Graduate,3397,90.0,1.0,26.49,7.36,Medium-High Risk
+LP002111,Male,Yes,Graduate,4316,100.0,1.0,23.17,6.44,Medium-High Risk
+LP002117,Female,Yes,Graduate,5533,108.0,1.0,19.52,5.42,Medium-High Risk
+LP002118,Female,No,Graduate,3089,78.0,1.0,25.25,7.01,Medium-High Risk
+LP002123,Male,Yes,Graduate,5030,123.0,1.0,24.45,6.79,Medium-High Risk
+LP002125,Male,Yes,Graduate,7560,187.0,1.0,24.74,6.87,Medium-High Risk
+LP002148,Male,Yes,Graduate,4157,146.0,1.0,35.12,9.76,Medium-High Risk
+LP002152,Female,No,Graduate,4213,80.0,1.0,18.99,5.27,Medium-High Risk
+LP002165,Unknown,No,Not Graduate,6065,100.0,1.0,16.49,4.58,Medium-High Risk
+LP002167,Female,No,Graduate,2362,55.0,1.0,23.29,6.47,Medium-High Risk
+LP002168,Male,No,Graduate,7733,200.0,0.0,25.86,7.18,High Risk
+LP002172,Male,Yes,Graduate,5384,150.0,1.0,27.86,7.74,Medium-High Risk
+LP002176,Male,No,Graduate,5708,150.0,1.0,26.28,7.3,Medium-High Risk
+LP002183,Male,Yes,Not Graduate,7473,118.0,1.0,15.79,4.39,Medium-High Risk
+LP002184,Male,Yes,Not Graduate,5044,150.0,1.0,29.74,9.91,Medium-High Risk
+LP002186,Male,Yes,Not Graduate,5205,118.0,1.0,22.67,62.97,High Risk
+LP002192,Male,Yes,Graduate,10013,212.0,1.0,21.17,5.88,Medium-High Risk
+LP002195,Male,Yes,Graduate,6655,212.0,1.0,31.86,8.85,Medium-High Risk
+LP002208,Male,Yes,Graduate,5886,125.0,1.0,21.24,5.9,Medium-High Risk
+LP002212,Male,Yes,Graduate,4332,108.0,1.0,24.93,6.93,Medium-High Risk
+LP002240,Male,Yes,Not Graduate,5668,149.0,1.0,26.29,7.3,Medium-High Risk
+LP002245,Male,Yes,Not Graduate,2896,80.0,1.0,27.62,5.76,Medium-High Risk
+LP002253,Female,No,Graduate,5062,152.0,1.0,30.03,10.01,Medium-High Risk
+LP002256,Female,No,Graduate,5184,187.0,0.0,36.07,10.02,High Risk
+LP002257,Female,No,Graduate,2545,74.0,1.0,29.08,8.08,Medium-High Risk
+LP002264,Male,Yes,Graduate,4321,102.0,1.0,23.61,6.56,Medium-High Risk
+LP002270,Male,Yes,Graduate,7245,100.0,1.0,13.8,3.83,Medium-High Risk
+LP002279,Male,No,Graduate,5167,130.0,1.0,25.16,6.99,Medium-High Risk
+LP002286,Male,Yes,Not Graduate,5180,125.0,0.0,24.13,6.7,High Risk
+LP002294,Male,No,Graduate,29418,130.0,1.0,4.42,1.23,Medium-Low Risk
+LP002298,Unknown,No,Graduate,5848,138.0,1.0,23.6,6.55,Medium-High Risk
+LP002306,Male,Yes,Graduate,2767,28.0,1.0,10.12,5.62,Medium-High Risk
+LP002310,Female,No,Graduate,7600,92.0,1.0,12.11,3.36,Medium-High Risk
+LP002311,Female,Yes,Graduate,3945,104.0,1.0,26.36,7.32,Medium-High Risk
+LP002316,Male,No,Graduate,5005,176.0,0.0,35.16,9.77,High Risk
+LP002321,Female,No,Graduate,7485,117.0,0.0,15.63,4.34,High Risk
+LP002325,Male,Yes,Not Graduate,20149,102.0,1.0,5.06,1.41,Medium-High Risk
+LP002326,Male,Yes,Not Graduate,3623,107.0,1.0,29.53,8.2,Medium-High Risk
+LP002329,Male,No,Graduate,4333,66.0,1.0,15.23,3.17,Medium-High Risk
+LP002333,Male,No,Not Graduate,3844,105.0,1.0,27.32,7.59,Medium-High Risk
+LP002339,Male,Yes,Graduate,5404,105.0,0.0,19.43,5.4,High Risk
+LP002344,Male,Yes,Graduate,4338,105.0,1.0,24.2,6.72,Medium-High Risk
+LP002346,Male,Yes,Graduate,4243,125.0,0.0,29.46,8.18,High Risk
+LP002354,Female,No,Not Graduate,2107,64.0,1.0,30.37,8.44,Medium-High Risk
+LP002355,Unknown,Yes,Graduate,6331,150.0,0.0,23.69,13.16,High Risk
+LP002358,Male,Yes,Graduate,7166,150.0,1.0,20.93,5.81,Medium-High Risk
+LP002360,Male,Yes,Graduate,10000,128.0,1.0,12.8,3.56,Medium-High Risk
+LP002375,Male,Yes,Not Graduate,3943,64.0,1.0,16.23,4.51,Medium-High Risk
+LP002376,Male,No,Graduate,2925,40.0,1.0,13.68,7.6,Medium-High Risk
+LP002383,Male,Yes,Graduate,3679,142.0,0.0,38.6,8.04,High Risk
+LP002385,Male,Yes,Graduate,3863,70.0,1.0,18.12,6.04,Medium-High Risk
+LP002389,Female,No,Graduate,4028,131.0,1.0,32.52,9.03,Medium-High Risk
+LP002394,Male,Yes,Graduate,5035,120.0,1.0,23.83,6.62,Medium-High Risk
+LP002397,Female,Yes,Graduate,5304,114.0,1.0,21.49,5.97,Medium-High Risk
+LP002399,Male,No,Graduate,2858,123.0,0.0,43.04,11.95,High Risk
+LP002400,Female,Yes,Graduate,3833,92.0,1.0,24.0,6.67,Medium-High Risk
+LP002402,Male,Yes,Graduate,7621,160.0,1.0,20.99,5.83,Medium-High Risk
+LP002412,Male,Yes,Graduate,6732,151.0,1.0,22.43,6.23,Medium-High Risk
+LP002415,Female,No,Graduate,6433,81.0,1.0,12.59,3.5,Medium-High Risk
+LP002417,Male,Yes,Not Graduate,5411,171.0,1.0,31.6,8.78,Medium-High Risk
+LP002420,Male,Yes,Graduate,4532,110.0,1.0,24.27,6.74,Medium-High Risk
+LP002425,Male,No,Graduate,4155,100.0,1.0,24.07,6.69,Medium-High Risk
+LP002433,Male,Yes,Graduate,18840,234.0,1.0,12.42,3.45,Medium-High Risk
+LP002440,Male,Yes,Graduate,4115,184.0,1.0,44.71,12.42,Medium-High Risk
+LP002441,Male,No,Graduate,6887,138.0,1.0,20.04,5.57,Medium-High Risk
+LP002442,Female,Yes,Not Graduate,5235,112.0,0.0,21.39,4.46,High Risk
+LP002445,Female,No,Not Graduate,7429,117.0,1.0,15.75,4.37,Medium-High Risk
+LP002450,Male,Yes,Graduate,6583,49.0,0.0,7.44,2.07,High Risk
+LP002471,Male,No,Graduate,3508,99.0,1.0,28.22,7.84,Medium-High Risk
+LP002476,Female,Yes,Not Graduate,4079,99.0,1.0,24.27,6.74,Medium-High Risk
+LP002482,Female,No,Graduate,7249,212.0,1.0,29.25,8.12,Medium-High Risk
+LP002485,Male,No,Graduate,24797,240.0,1.0,9.68,2.69,Medium-High Risk
+LP002495,Male,Yes,Graduate,6107,130.0,0.0,21.29,5.91,High Risk
+LP002496,Female,No,Graduate,3500,94.0,0.0,26.86,7.46,High Risk
+LP002523,Male,Yes,Graduate,4270,108.0,1.0,25.29,7.03,Medium-High Risk
+LP002542,Male,Yes,Graduate,6500,144.0,1.0,22.15,6.15,Medium-High Risk
+LP002550,Female,No,Graduate,5769,110.0,1.0,19.07,10.59,Medium-High Risk
+LP002551,Male,Yes,Not Graduate,4544,176.0,0.0,38.73,10.76,High Risk
+LP002553,Unknown,No,Graduate,29167,185.0,1.0,6.34,1.76,Medium-High Risk
+LP002554,Male,No,Graduate,4223,122.0,1.0,28.89,8.02,Medium-High Risk
+LP002561,Male,Yes,Graduate,5000,126.0,1.0,25.2,7.0,Medium-High Risk
+LP002566,Female,No,Graduate,5530,135.0,1.0,24.41,6.78,Medium-High Risk
+LP002568,Male,No,Not Graduate,9000,122.0,1.0,13.56,3.77,Medium-High Risk
+LP002570,Female,Yes,Graduate,21666,460.0,1.0,21.23,5.9,Medium-High Risk
+LP002572,Male,Yes,Graduate,8750,297.0,1.0,33.94,9.43,Medium-High Risk
+LP002581,Male,Yes,Not Graduate,4887,140.0,1.0,28.65,7.96,Medium-High Risk
+LP002584,Male,No,Graduate,6319,106.0,1.0,16.77,4.66,Medium-High Risk
+LP002592,Male,No,Graduate,4983,141.0,1.0,28.3,7.86,Medium-High Risk
+LP002593,Male,Yes,Graduate,12333,128.0,1.0,10.38,2.88,Medium-High Risk
+LP002599,Male,Yes,Graduate,5667,170.0,1.0,30.0,8.33,Medium-High Risk
+LP002604,Male,Yes,Graduate,5999,145.0,1.0,24.17,6.71,Medium-High Risk
+LP002605,Male,No,Not Graduate,3271,90.0,1.0,27.51,7.64,Medium-High Risk
+LP002609,Female,Yes,Graduate,4241,88.0,0.0,20.75,5.76,High Risk
+LP002610,Male,Yes,Not Graduate,4357,128.0,1.0,29.38,8.16,Medium-High Risk
+LP002612,Female,Yes,Graduate,2666,84.0,1.0,31.51,6.56,Medium-High Risk
+LP002614,Unknown,No,Graduate,6478,108.0,1.0,16.67,4.63,Medium-High Risk
+LP002630,Male,No,Not Graduate,3808,83.0,1.0,21.8,6.05,Medium-High Risk
+LP002635,Female,Yes,Not Graduate,3729,117.0,1.0,31.38,8.72,Medium-High Risk
+LP002639,Male,Yes,Graduate,4120,128.0,1.0,31.07,8.63,Medium-High Risk
+LP002644,Male,Yes,Graduate,7500,75.0,1.0,10.0,2.78,Medium-High Risk
+LP002651,Male,Yes,Graduate,6300,125.0,0.0,19.84,5.51,High Risk
+LP002654,Female,No,Graduate,14987,177.0,1.0,11.81,3.28,Medium-High Risk
+LP002657,Unknown,Yes,Not Graduate,2695,68.0,1.0,25.23,7.01,Medium-High Risk
+LP002711,Male,Yes,Graduate,3300,96.0,1.0,29.09,8.08,Medium-High Risk
+LP002712,Male,No,Not Graduate,3816,180.0,1.0,47.17,13.1,Medium-High Risk
+LP002721,Male,Yes,Graduate,7500,183.0,1.0,24.4,6.78,Medium-High Risk
+LP002735,Male,Yes,Not Graduate,3859,121.0,1.0,31.36,8.71,Medium-High Risk
+LP002744,Male,Yes,Graduate,6825,162.0,1.0,23.74,6.59,Medium-High Risk
+LP002745,Male,Yes,Graduate,8408,132.0,1.0,15.7,4.36,Medium-High Risk
+LP002746,Male,No,Graduate,5314,147.0,1.0,27.66,7.68,Medium-High Risk
+LP002747,Female,No,Graduate,7638,153.0,0.0,20.03,5.56,High Risk
+LP002754,Male,No,Graduate,4174,104.0,1.0,24.92,29.66,Medium-High Risk
+LP002759,Male,Yes,Graduate,5000,149.0,1.0,29.8,8.28,Medium-High Risk
+LP002760,Female,No,Graduate,3767,134.0,1.0,35.57,11.86,Medium-High Risk
+LP002766,Female,Yes,Graduate,8738,165.0,1.0,18.88,10.49,Medium-High Risk
+LP002769,Female,Yes,Graduate,4283,120.0,1.0,28.02,7.78,Medium-High Risk
+LP002774,Male,Yes,Not Graduate,4600,67.0,0.0,14.57,4.05,High Risk
+LP002775,Unknown,No,Not Graduate,4768,125.0,1.0,26.22,7.28,Medium-High Risk
+LP002781,Male,No,Graduate,5821,120.0,1.0,20.62,5.73,Medium-High Risk
+LP002782,Male,Yes,Graduate,4209,148.0,1.0,35.16,9.77,Medium-High Risk
+LP002786,Female,Yes,Not Graduate,3409,181.0,1.0,53.09,14.75,Medium-High Risk
+LP002790,Male,Yes,Graduate,3400,80.0,1.0,23.53,19.61,Medium-High Risk
+LP002791,Male,No,Graduate,21000,40.0,1.0,1.9,0.53,Low Risk
+LP002793,Male,Yes,Graduate,5333,90.0,1.0,16.88,4.69,Medium-High Risk
+LP002802,Male,No,Graduate,5291,95.0,0.0,17.96,299.25,High Risk
+LP002803,Male,Yes,Not Graduate,3218,122.0,1.0,37.91,10.53,Medium-High Risk
+LP002805,Male,Yes,Graduate,5741,150.0,1.0,26.13,7.26,Medium-High Risk
+LP002806,Male,Yes,Graduate,8369,150.0,1.0,17.92,4.98,Medium-High Risk
+LP002816,Male,Yes,Graduate,5158,104.0,1.0,20.16,5.6,Medium-High Risk
+LP002823,Male,Yes,Graduate,5509,143.0,1.0,25.96,7.21,Medium-High Risk
+LP002825,Male,Yes,Graduate,9699,300.0,1.0,30.93,8.59,Medium-High Risk
+LP002826,Female,Yes,Not Graduate,6338,171.0,1.0,26.98,7.49,Medium-High Risk
+LP002843,Female,Yes,Graduate,4709,113.0,1.0,24.0,6.67,Medium-High Risk
+LP002849,Male,Yes,Graduate,3467,35.0,1.0,10.1,2.8,Medium-High Risk
+LP002850,Male,No,Graduate,2400,46.0,1.0,19.17,5.32,Medium-High Risk
+LP002853,Female,No,Not Graduate,5015,145.0,1.0,28.91,8.03,Medium-High Risk
+LP002856,Male,Yes,Graduate,3850,119.0,1.0,30.91,8.59,Medium-High Risk
+LP002857,Male,Yes,Graduate,5715,87.0,1.0,15.22,6.34,Medium-High Risk
+LP002858,Female,No,Graduate,6666,162.0,0.0,24.3,6.75,High Risk
+LP002860,Male,Yes,Graduate,7454,122.0,1.0,16.37,9.09,Medium-High Risk
+LP002867,Male,No,Graduate,8247,187.0,1.0,22.67,6.3,Medium-High Risk
+LP002869,Male,Yes,Not Graduate,3522,81.0,1.0,23.0,12.78,Medium-High Risk
+LP002870,Male,Yes,Graduate,4700,80.0,1.0,17.02,4.73,Medium-High Risk
+LP002876,Male,No,Graduate,6858,176.0,1.0,25.66,7.13,Medium-High Risk
+LP002878,Male,Yes,Graduate,8334,260.0,1.0,31.2,8.67,Medium-High Risk
+LP002879,Male,Yes,Graduate,5357,133.0,0.0,24.83,6.9,High Risk
+LP002885,Male,No,Not Graduate,2868,70.0,1.0,24.41,6.78,Medium-High Risk
+LP002890,Male,Yes,Not Graduate,4798,135.0,1.0,28.14,7.82,Medium-High Risk
+LP002891,Male,Yes,Graduate,2796,137.0,1.0,49.0,16.33,Medium-High Risk
+LP002899,Male,Yes,Graduate,8667,254.0,1.0,29.31,8.14,Medium-High Risk
+LP002901,Male,No,Graduate,17283,106.0,1.0,6.13,1.7,Medium-High Risk
+LP002907,Male,Yes,Graduate,6727,109.0,1.0,16.2,4.5,Medium-High Risk
+LP002920,Male,Yes,Graduate,8888,120.0,1.0,13.5,3.75,Medium-High Risk
+LP002921,Male,Yes,Not Graduate,5503,158.0,0.0,28.71,15.95,High Risk
+LP002932,Male,Yes,Graduate,8816,197.0,1.0,22.35,6.21,Medium-High Risk
+LP002935,Male,Yes,Graduate,5727,85.0,1.0,14.84,4.12,Medium-High Risk
+LP002952,Male,No,Graduate,2500,60.0,1.0,24.0,6.67,Medium-High Risk
+LP002954,Male,Yes,Not Graduate,3132,76.0,1.0,24.27,6.74,Medium-High Risk
+LP002962,Male,No,Graduate,6667,152.0,1.0,22.8,6.33,Medium-High Risk
+LP002965,Female,Yes,Graduate,12805,96.0,1.0,7.5,2.08,Medium-High Risk
+LP002969,Male,Yes,Graduate,4436,99.0,1.0,22.32,6.2,Medium-High Risk
+LP002971,Male,Yes,Not Graduate,5786,113.0,1.0,19.53,5.42,Medium-High Risk
+LP002975,Male,Yes,Graduate,4867,115.0,1.0,23.63,6.56,Medium-High Risk
+LP002980,Male,No,Graduate,5243,126.0,1.0,24.03,6.68,Medium-High Risk
+LP002986,Male,Yes,Graduate,7393,158.0,1.0,21.37,5.94,Medium-High Risk
+LP002989,Male,No,Graduate,9200,98.0,1.0,10.65,5.92,Medium-High Risk

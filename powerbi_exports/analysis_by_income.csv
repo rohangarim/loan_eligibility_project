@@ -1,0 +1,4 @@
+Income_Category,Application_Count,Min_Income,Avg_Income,Max_Income,Avg_Loan_Amount,Avg_LTI_Ratio
+Low Income,78,1760,3230.88,3958,96.95,30.58
+Medium Income,228,4000,5527.2,7950,130.84,24.09
+High Income,61,8160,13565.25,72529,205.34,17.74
