@@ -1,0 +1,20 @@
+import pandas as pd
+import sqlite3
+
+import os
+print(os.path.exists("../data/loan_test.xls"))
+
+
+# Step 1: Read Excel file
+df = pd.read_excel("../data/loan_test.xls")
+
+# Step 2: Connect to (or create) a SQLite database file
+conn = sqlite3.connect("loan_data.db")
+
+# Step 3: Write CSV data into a SQL table
+df.to_sql("loan_raw", conn, if_exists="replace", index=False)
+
+# Step 4: Close connection
+conn.close()
+
+print("✅ Data successfully imported into loan_data.db")
