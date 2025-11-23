@@ -356,11 +356,3 @@ FROM risk_segments
 GROUP BY Risk_Category
 ORDER BY Count DESC;
 
--- ============================================
--- DONE! All tables and views ready for Power BI
--- ============================================
-
-SELECT '✅ Data cleaning complete!' as Status;
-SELECT 'Main table: loan_cleaned' as Info;
-SELECT 'Analysis views created: 8' as Info;
-SELECT 'Ready for Power BI visualization!' as Info;
